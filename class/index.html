@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Class Page</title>
+  <style>
+    .subject { display: none; }
+    .subject.active { display: block; }
+    #desc {
+        color: #000;
+    }
+  </style>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body class="invert center"> 
+  <!-- Title must have id="title" exactly -->
+  <h6 id="desc">this classs page is nonexistent</h6>
+
+  <a href="../" class="button">Back</a>
+  <!-- Subjects -->
+  <div id="dk" class="subject">
+    <h2>Dansk</h2>
+    <p>Velkommen til Dansk! Her vil du arbejde med grammatik, skrivning og litteratur.</p>
+  </div>
+
+   <div id="en" class="subject">
+    <h2>English</h2>
+    <p>Welcome to English! Here you’ll work with grammar, writing, and stories.</p>
+  </div>
+
+  <div id="de" class="subject">
+    <h2>German</h2>
+    <p>Willkommen im Deutschunterricht! Hier wirst du mit Grammatik, Schreiben und Geschichten arbeiten.</p>
+  </div>
+
+  <div id="math" class="subject">
+    <h2>Math</h2>
+    <p>Velkommen til Matematik! Her vil du arbejde med tal, ligninger og formler.</p>
+  </div>
+
+  <div id="hex" class="subject">
+    <p>4f 6f 68 21 20 59 6f 75 20 66 6f 75 6e 64 20 68 65 78 21 </p>
+  </div>
+
+  <!-- scripts should live one folder up -->
+  <script src="../subject.js"></script>
+  <script src="../script.js"></script>
+</body>
+</html>
