@@ -4,13 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>B-O-G - Vælg sværhedsgrad</title>
+    <link rel="stylesheet" href="../styles.css">
 </head>
-<body>
-    <h1>Vælg sværhedsgrad</h1>
-    <ul>
-        <li><a href="#" data-difficulty="easy">Let</a></li>
-        <li><a href="#" data-difficulty="medium">Moderat</a></li>
-        <li><a href="#" data-difficulty="hard">Svær</a></li>
+<body class="invert center">
+    <nav class="center nav">
+        <ul>
+            <li><a href="../">Hjem</a></li>
+            <li class="dropdown">
+                <a href="#">Begynd!</a>
+                <ul class="dropdown-menu">
+                    <li><a href="../subject?subject=dk" >Dansk</a></li>
+                    <li><a href="../subject?subject=en" >Engelsk</a></li>
+                    <li><a href="../subject?subject=de" >Tysk</a></li>
+                    <li><a href="../subject?subject=math" >Matematik</a></li>
+                </ul>
+            </li>
+            <li><a href="../about">Om Os</a></li>
+        </ul>
+    </nav>
+    <h1>B-O-G</h1>
+    <h2>Vælg sværhedsgrad</h2>
+    <ul class="task-list">
+        <li><a href="#" data-difficulty="easy" class="button">Let</a></li>
+        <li><a href="#" data-difficulty="medium" class="button">Moderat</a></li>
+        <li><a href="#" data-difficulty="hard" class="button">Svær</a></li>
     </ul> 
     <script src="../script.js"></script>
     <script src="../subject.js"></script>

@@ -11,10 +11,23 @@
   <link rel="stylesheet" href="../styles.css">
 </head>
 <body class="invert center"> 
-  <!-- Description must have id="desc" exactly -->
+  <nav class="center nav">
+    <ul>
+        <li><a href="../">Hjem</a></li>
+        <li class="dropdown">
+            <a href="#">Begynd!</a>
+            <ul class="dropdown-menu">
+                <li><a href="../subject?subject=dk" >Dansk</a></li>
+                <li><a href="../subject?subject=en" >Engelsk</a></li>
+                <li><a href="../subject?subject=de" >Tysk</a></li>
+                <li><a href="../subject?subject=math" >Matematik</a></li>
+            </ul>
+        </li>
+        <li><a href="../about">Om Os</a></li>
+    </ul>
+  </nav>
+    <!-- Description must have id="desc" exactly -->
   <h6 id="desc">N/A</h6>
-
-  <a href="../" class="button">Back</a>
   <!-- Subjects -->
   <div id="dk" class="subject">
     <h2>Dansk</h2>
