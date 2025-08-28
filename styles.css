@@ -4,6 +4,8 @@
 
 .center {
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .invert {
@@ -15,6 +17,7 @@
     background-color: #222;
     padding: 1em 0;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border-radius: 4px;
 }
 
 .nav > ul {
@@ -98,6 +101,22 @@
 
 .button:hover {
     background-color: #444;
+}
+
+input[type="radio"] {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.task-container {
+    background-color: #222;
+    height: 10vh;
+    width: 50vh;
+    margin: auto;
+    padding: 1em;
+    border-radius: 8px;
 }
 
 .task-list {
