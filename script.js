@@ -36,10 +36,10 @@ document.addEventListener("DOMContentLoaded", async () => {
                 <h3>Spørgsmål ${idx + 1} af ${questions.length}</h3>
                 <p>${q.question}</p>
                 <label>
-                    <input class="button" type="radio" name="answer" value="true" ${answers[idx] === true ? 'checked' : ''}> Sandt
+                    <input class="button" type="radio" name="answer" value="true" ${answers[idx] === true ? 'checked' : ''}> Ja
                 </label>
                 <label>
-                    <input class="button" type="radio" name="answer" value="false" ${answers[idx] === false ? 'checked' : ''}> Falsk
+                    <input class="button" type="radio" name="answer" value="false" ${answers[idx] === false ? 'checked' : ''}> Nej
                 </label>
                 <br>
                 <button class="button" id="back" ${idx === 0 ? 'disabled' : ''}>Tilbage</button>
