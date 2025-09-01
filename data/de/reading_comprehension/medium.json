@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Die Sonne ist gelb.",
+        "answer": true
+    },
+    {
+        "question": "Ein Hund kann fliegen.",
+        "answer": false
+    },
+    {
+        "question": "Wasser ist nass.",
+        "answer": true
+    },
+    {
+        "question": "Katzen mögen Milch.",
+        "answer": true
+    },
+    {
+        "question": "Autos fahren auf Wasser.",
+        "answer": false
+    },
+    {
+        "question": "Der Apfel ist rot.",
+        "answer": true
+    },
+    {
+        "question": "Bäume haben Blätter.",
+        "answer": true
+    },
+    {
+        "question": "Fische leben im Wald.",
+        "answer": false
+    },
+    {
+        "question": "Der Himmel ist blau.",
+        "answer": true
+    },
+    {
+        "question": "Bananen sind gelb.",
+        "answer": true
+    },
+    {
+        "question": "Vögel können schwimmen.",
+        "answer": false
+    },
+    {
+        "question": "Schnee ist kalt.",
+        "answer": true
+    },
+    {
+        "question": "Die Maus ist groß.",
+        "answer": false
+    },
+    {
+        "question": "Milch kommt von der Kuh.",
+        "answer": true
+    },
+    {
+        "question": "Der Tisch ist ein Möbelstück.",
+        "answer": true
+    },
+    {
+        "question": "Ein Elefant ist klein.",
+        "answer": false
+    },
+    {
+        "question": "Die Blume ist bunt.",
+        "answer": true
+    },
+    {
+        "question": "Papier ist schwer.",
+        "answer": false
+    },
+    {
+        "question": "Die Uhr zeigt die Zeit.",
+        "answer": true
+    },
+    {
+        "question": "Ein Haus hat Fenster.",
+        "answer": true
+    },
+    {
+        "question": "Der Fisch lebt im Wasser.",
+        "answer": true
+    },
+    {
+        "question": "Die Giraffe ist kurz.",
+        "answer": false
+    },
+    {
+        "question": "Ein Ball ist rund.",
+        "answer": true
+    },
+    {
+        "question": "Die Lampe macht Licht.",
+        "answer": true
+    },
+    {
+        "question": "Der Stuhl ist zum Sitzen.",
+        "answer": true
+    },
+    {
+        "question": "Ein Flugzeug fährt auf der Straße.",
+        "answer": false
+    },
+    {
+        "question": "Die Blätter sind grün.",
+        "answer": true
+    },
+    {
+        "question": "Der Mond ist am Tag zu sehen.",
+        "answer": false
+    },
+    {
+        "question": "Ein Pferd kann laufen.",
+        "answer": true
+    },
+    {
+        "question": "Die Tomate ist blau.",
+        "answer": false
+    }
+]

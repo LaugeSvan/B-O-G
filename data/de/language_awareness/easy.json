@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Er det sandt, at det tyske alfabet har bogstavet 'ß'?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at alle tyske substantiver starter med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Hund' betyder kat på tysk?",
+        "answer": false
+    },
+    {
+        "question": "Er det sandt, at 'Haus' betyder hus på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at tysk tales i Schweiz?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Apfel' betyder banan på tysk?",
+        "answer": false
+    },
+    {
+        "question": "Er det sandt, at 'Danke' betyder tak på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Buch' betyder bog på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Auto' betyder cykel på tysk?",
+        "answer": false
+    },
+    {
+        "question": "Er det sandt, at 'Schule' betyder skole på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at tysk har tre grammatiske køn?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Mädchen' betyder dreng på tysk?",
+        "answer": false
+    },
+    {
+        "question": "Er det sandt, at 'Wasser' betyder vand på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Brot' betyder brød på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Tisch' betyder stol på tysk?",
+        "answer": false
+    },
+    {
+        "question": "Er det sandt, at 'Lehrer' betyder lærer på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Fenster' betyder vindue på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Baum' betyder blomst på tysk?",
+        "answer": false
+    },
+    {
+        "question": "Er det sandt, at 'Freund' betyder ven på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Stadt' betyder land på tysk?",
+        "answer": false
+    },
+    {
+        "question": "Er det sandt, at 'Bett' betyder seng på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Mutter' betyder mor på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Vater' betyder far på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Kind' betyder voksen på tysk?",
+        "answer": false
+    },
+    {
+        "question": "Er det sandt, at 'Berg' betyder bjerg på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Straße' betyder vej på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Fisch' betyder fugl på tysk?",
+        "answer": false
+    },
+    {
+        "question": "Er det sandt, at 'Milch' betyder mælk på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Buch' betyder bog på tysk?",
+        "answer": true
+    },
+    {
+        "question": "Er det sandt, at 'Tag' betyder nat på tysk?",
+        "answer": false
+    }
+]

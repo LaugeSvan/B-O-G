@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Ist Berlin die Hauptstadt von Deutschland?",
+        "answer": true
+    },
+    {
+        "question": "Hat das deutsche Alphabet 30 Buchstaben?",
+        "answer": false
+    },
+    {
+        "question": "Beginnt das Wort 'Apfel' mit einem Vokal?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Hund' ein Tier?",
+        "answer": true
+    },
+    {
+        "question": "Schreibt man 'Haus' mit zwei 's'?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'rot' eine Farbe?",
+        "answer": true
+    },
+    {
+        "question": "Heißt 'Baum' auf Englisch 'Tree'?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'laufen' ein Verb?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Katze' ein Möbelstück?",
+        "answer": false
+    },
+    {
+        "question": "Beginnt das Wort 'Tisch' mit einem 'T'?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Buch' ein Lebensmittel?",
+        "answer": false
+    },
+    {
+        "question": "Hat das Wort 'Auto' vier Buchstaben?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'grün' eine Zahl?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'Sommer' eine Jahreszeit?",
+        "answer": true
+    },
+    {
+        "question": "Heißt 'Mutter' auf Englisch 'Mother'?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'schwimmen' ein Adjektiv?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'Brot' ein Getränk?",
+        "answer": false
+    },
+    {
+        "question": "Beginnt das Wort 'Fisch' mit einem 'F'?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'klein' das Gegenteil von 'groß'?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Apfel' ein Gemüse?",
+        "answer": false
+    },
+    {
+        "question": "Hat das Wort 'Blume' fünf Buchstaben?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'laufen' das gleiche wie 'gehen'?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'Freitag' ein Wochentag?",
+        "answer": true
+    },
+    {
+        "question": "Heißt 'Haus' auf Englisch 'Car'?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'schnell' ein Adjektiv?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Milch' ein Getränk?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Bleistift' zum Schreiben da?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Winter' eine Farbe?",
+        "answer": false
+    },
+    {
+        "question": "Hat das Wort 'Tisch' vier Buchstaben?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'schwarz' heller als 'weiß'?",
+        "answer": false
+    }
+]

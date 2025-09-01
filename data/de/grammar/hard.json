@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Das Verb 'sein' ist ein regelmäßiges Verb.",
+        "answer": false
+    },
+    {
+        "question": "Im Deutschen gibt es drei Geschlechter: männlich, weiblich und sächlich.",
+        "answer": true
+    },
+    {
+        "question": "Der Plural von 'Haus' ist 'Häuser'.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Auto' ist feminin.",
+        "answer": false
+    },
+    {
+        "question": "Im Deutschen steht das Verb immer am Satzende.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Tisch' ist maskulin.",
+        "answer": true
+    },
+    {
+        "question": "Man sagt 'die Apfel'.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Buch' ist neutral.",
+        "answer": true
+    },
+    {
+        "question": "Im Deutschen gibt es vier Fälle.",
+        "answer": true
+    },
+    {
+        "question": "Der Dativ antwortet auf die Frage 'Wen?'.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Mädchen' ist feminin.",
+        "answer": false
+    },
+    {
+        "question": "Das Verb 'haben' wird im Perfekt mit 'sein' gebildet.",
+        "answer": false
+    },
+    {
+        "question": "Man sagt 'Ich gehe ins Kino'.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Hund' ist plural.",
+        "answer": false
+    },
+    {
+        "question": "Im Deutschen gibt es bestimmte und unbestimmte Artikel.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Blume' ist maskulin.",
+        "answer": false
+    },
+    {
+        "question": "Man sagt 'die Katze' für eine weibliche Katze.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Lehrer' ist immer männlich.",
+        "answer": false
+    },
+    {
+        "question": "Im Deutschen gibt es keine Umlaute.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Kind' ist neutral.",
+        "answer": true
+    },
+    {
+        "question": "Man sagt 'der Tisch' für einen Tisch.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Frau' ist maskulin.",
+        "answer": false
+    },
+    {
+        "question": "Im Deutschen gibt es den Akkusativ.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Brot' ist feminin.",
+        "answer": false
+    },
+    {
+        "question": "Man sagt 'die Häuser' im Plural.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Mann' ist feminin.",
+        "answer": false
+    },
+    {
+        "question": "Im Deutschen gibt es keine Großschreibung von Nomen.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Stuhl' ist maskulin.",
+        "answer": true
+    },
+    {
+        "question": "Man sagt 'das Auto' für ein Auto.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Tasche' ist neutral.",
+        "answer": false
+    }
+]

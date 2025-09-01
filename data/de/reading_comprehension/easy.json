@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Er Berlin hovedstaden i Tyskland?",
+        "answer": true
+    },
+    {
+        "question": "Er München kendt for sin strand?",
+        "answer": false
+    },
+    {
+        "question": "Er floden Donau den længste flod i Tyskland?",
+        "answer": false
+    },
+    {
+        "question": "Er tysk det officielle sprog i Tyskland?",
+        "answer": true
+    },
+    {
+        "question": "Er Brandenburger Tor en berømt seværdighed i Berlin?",
+        "answer": true
+    },
+    {
+        "question": "Er Schwarzwald et bjerg i Tyskland?",
+        "answer": false
+    },
+    {
+        "question": "Er Köln berømt for sin domkirke?",
+        "answer": true
+    },
+    {
+        "question": "Er Hamburg en by uden havn?",
+        "answer": false
+    },
+    {
+        "question": "Er Tyskland kendt for bratwurst?",
+        "answer": true
+    },
+    {
+        "question": "Er Zugspitze det højeste bjerg i Tyskland?",
+        "answer": true
+    },
+    {
+        "question": "Er Frankfurt kendt for sin gamle bydel?",
+        "answer": true
+    },
+    {
+        "question": "Er Tyskland et land uden skove?",
+        "answer": false
+    },
+    {
+        "question": "Er Oktoberfest en festival i München?",
+        "answer": true
+    },
+    {
+        "question": "Er Tyskland en ø?",
+        "answer": false
+    },
+    {
+        "question": "Er Neuschwanstein Slot et berømt slot i Tyskland?",
+        "answer": true
+    },
+    {
+        "question": "Er Tysklands flag blåt og hvidt?",
+        "answer": false
+    },
+    {
+        "question": "Er Berlin kendt for sin mur?",
+        "answer": true
+    },
+    {
+        "question": "Er Tyskland kendt for vinproduktion?",
+        "answer": true
+    },
+    {
+        "question": "Er Bremen en by ved havet?",
+        "answer": true
+    },
+    {
+        "question": "Er Tyskland det største land i Europa?",
+        "answer": false
+    },
+    {
+        "question": "Er Currywurst en populær ret i Tyskland?",
+        "answer": true
+    },
+    {
+        "question": "Er Bodensee en stor sø i Tyskland?",
+        "answer": true
+    },
+    {
+        "question": "Er Tyskland kendt for sin bilindustri?",
+        "answer": true
+    },
+    {
+        "question": "Er Leipzig en by i Nordtyskland?",
+        "answer": false
+    },
+    {
+        "question": "Er Tyskland et land med mange bjerge?",
+        "answer": true
+    },
+    {
+        "question": "Er Tysklands hovedstad Wien?",
+        "answer": false
+    },
+    {
+        "question": "Er Tyskland kendt for julemarkeder?",
+        "answer": true
+    },
+    {
+        "question": "Er Düsseldorf en by ved Rhinen?",
+        "answer": true
+    },
+    {
+        "question": "Er Tyskland et land uden søer?",
+        "answer": false
+    },
+    {
+        "question": "Er Stuttgart kendt for sin bilindustri?",
+        "answer": true
+    }
+]

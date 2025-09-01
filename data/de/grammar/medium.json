@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Ist 'der' ein bestimmter Artikel?",
+        "answer": true
+    },
+    {
+        "question": "Heißt 'Haus' auf Englisch 'car'?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'die Katze' feminin?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'das Buch' neutral?",
+        "answer": true
+    },
+    {
+        "question": "Beginnt ein Satz immer mit einem Großbuchstaben?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'gehen' ein Verb?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Apfel' ein Verb?",
+        "answer": false
+    },
+    {
+        "question": "Hat das Wort 'Auto' einen Umlaut?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'schön' ein Adjektiv?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'und' eine Konjunktion?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'die' ein unbestimmter Artikel?",
+        "answer": false
+    },
+    {
+        "question": "Kann man 'ich bin' für sich selbst benutzen?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'laufen' das gleiche wie 'gehen'?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'Hund' maskulin?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Tisch' feminin?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'das' ein bestimmter Artikel?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'eine' ein bestimmter Artikel?",
+        "answer": false
+    },
+    {
+        "question": "Heißt 'rot' auf Englisch 'red'?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'groß' ein Nomen?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'spielen' ein Verb?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Baum' ein Tier?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'Maus' feminin?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'das Auto' neutral?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'der Mann' maskulin?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'die Frau' maskulin?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'laufen' ein Verb?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'Haus' ein Nomen?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'klein' ein Adjektiv?",
+        "answer": true
+    },
+    {
+        "question": "Ist 'das Kind' feminin?",
+        "answer": false
+    },
+    {
+        "question": "Ist 'Apfel' ein Obst?",
+        "answer": true
+    }
+]

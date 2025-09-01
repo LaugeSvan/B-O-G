@@ -1,0 +1,122 @@
+[
+    {
+        "question": "På tysk står verbet altid på anden plads i en udsagnssætning.",
+        "answer": true
+    },
+    {
+        "question": "Ordet 'Haus' er et maskulint substantiv.",
+        "answer": false
+    },
+    {
+        "question": "På tysk findes der fire kasus: nominativ, genitiv, dativ og akkusativ.",
+        "answer": true
+    },
+    {
+        "question": "Adjektivet står altid foran substantivet på tysk.",
+        "answer": true
+    },
+    {
+        "question": "Ordet 'die Katze' er feminint.",
+        "answer": true
+    },
+    {
+        "question": "Der findes ingen umlaut på tysk.",
+        "answer": false
+    },
+    {
+        "question": "Verbet 'sein' er et uregelmæssigt verbum.",
+        "answer": true
+    },
+    {
+        "question": "Alle tyske flertalsord ender på '-en'.",
+        "answer": false
+    },
+    {
+        "question": "Ordet 'Auto' er neutralt.",
+        "answer": true
+    },
+    {
+        "question": "På tysk findes der bestemte og ubestemte artikler.",
+        "answer": true
+    },
+    {
+        "question": "Ordet 'der Tisch' er feminint.",
+        "answer": false
+    },
+    {
+        "question": "Verbet står altid først i et spørgende sætning på tysk.",
+        "answer": true
+    },
+    {
+        "question": "Der findes ingen præpositioner på tysk.",
+        "answer": false
+    },
+    {
+        "question": "Ordet 'Buch' er neutralt.",
+        "answer": true
+    },
+    {
+        "question": "Der findes ingen adskillelige verber på tysk.",
+        "answer": false
+    },
+    {
+        "question": "Ordet 'Freund' er maskulint.",
+        "answer": true
+    },
+    {
+        "question": "På tysk findes der imperativ.",
+        "answer": true
+    },
+    {
+        "question": "Ordet 'die Blume' er maskulint.",
+        "answer": false
+    },
+    {
+        "question": "Der findes sammensatte ord på tysk.",
+        "answer": true
+    },
+    {
+        "question": "Ordet 'Kind' er feminint.",
+        "answer": false
+    },
+    {
+        "question": "Der findes ingen refleksive pronominer på tysk.",
+        "answer": false
+    },
+    {
+        "question": "Ordet 'Hund' er maskulint.",
+        "answer": true
+    },
+    {
+        "question": "Subjektet står altid sidst i sætningen på tysk.",
+        "answer": false
+    },
+    {
+        "question": "Ordet 'die Schule' er feminint.",
+        "answer": true
+    },
+    {
+        "question": "På tysk findes der konjunktiv.",
+        "answer": true
+    },
+    {
+        "question": "Ordet 'Mädchen' er maskulint.",
+        "answer": false
+    },
+    {
+        "question": "Der findes ingen possessive pronominer på tysk.",
+        "answer": false
+    },
+    {
+        "question": "Ordet 'Vater' er maskulint.",
+        "answer": true
+    },
+    {
+        "question": "Der findes ingen modalverber på tysk.",
+        "answer": false
+    },
+    {
+        "question": "Ordet 'die Mutter' er feminint.",
+        "answer": true
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Berlin ist die Hauptstadt von Deutschland.",
+        "answer": true
+    },
+    {
+        "question": "Der Rhein fließt durch München.",
+        "answer": false
+    },
+    {
+        "question": "Die deutsche Flagge ist schwarz, rot und gold.",
+        "answer": true
+    },
+    {
+        "question": "Hamburg liegt am Meer.",
+        "answer": false
+    },
+    {
+        "question": "Deutschland grenzt an Frankreich.",
+        "answer": true
+    },
+    {
+        "question": "Die Alpen sind im Norden Deutschlands.",
+        "answer": false
+    },
+    {
+        "question": "Oktoberfest findet in München statt.",
+        "answer": true
+    },
+    {
+        "question": "Die Donau ist ein Fluss in Deutschland.",
+        "answer": true
+    },
+    {
+        "question": "Deutsch ist die einzige Amtssprache in Deutschland.",
+        "answer": true
+    },
+    {
+        "question": "Köln ist bekannt für seinen Dom.",
+        "answer": true
+    },
+    {
+        "question": "Frankfurt ist die größte Stadt Deutschlands.",
+        "answer": false
+    },
+    {
+        "question": "Die Zugspitze ist der höchste Berg Deutschlands.",
+        "answer": true
+    },
+    {
+        "question": "Deutschland liegt in Europa.",
+        "answer": true
+    },
+    {
+        "question": "Die Elbe fließt durch Dresden.",
+        "answer": true
+    },
+    {
+        "question": "Stuttgart ist die Hauptstadt von Bayern.",
+        "answer": false
+    },
+    {
+        "question": "Die deutsche Nationalhymne heißt 'Deutschlandlied'.",
+        "answer": true
+    },
+    {
+        "question": "Bier ist ein beliebtes Getränk in Deutschland.",
+        "answer": true
+    },
+    {
+        "question": "Der Bodensee liegt im Süden Deutschlands.",
+        "answer": true
+    },
+    {
+        "question": "Die Berliner Mauer existiert noch heute.",
+        "answer": false
+    },
+    {
+        "question": "Deutschland hat neun Nachbarländer.",
+        "answer": true
+    },
+    {
+        "question": "Die Hauptstadt von Niedersachsen ist Hannover.",
+        "answer": true
+    },
+    {
+        "question": "Der Schwarzwald liegt in Bayern.",
+        "answer": false
+    },
+    {
+        "question": "Die Currywurst ist eine bekannte deutsche Speise.",
+        "answer": true
+    },
+    {
+        "question": "Das Brandenburger Tor steht in Berlin.",
+        "answer": true
+    },
+    {
+        "question": "Die deutsche Autobahn hat kein Tempolimit.",
+        "answer": true
+    },
+    {
+        "question": "Deutschland ist ein Königreich.",
+        "answer": false
+    },
+    {
+        "question": "Die Spree fließt durch Berlin.",
+        "answer": true
+    },
+    {
+        "question": "Die Hauptstadt von Sachsen ist Leipzig.",
+        "answer": false
+    },
+    {
+        "question": "Der Euro ist die Währung in Deutschland.",
+        "answer": true
+    },
+    {
+        "question": "Deutschland liegt südlich von Italien.",
+        "answer": false
+    }
+]

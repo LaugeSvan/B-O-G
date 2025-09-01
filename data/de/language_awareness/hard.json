@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Deutsch ist eine germanische Sprache.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Haus' bedeutet auf Englisch 'car'.",
+        "answer": false
+    },
+    {
+        "question": "Im Deutschen gibt es drei grammatische Geschlechter.",
+        "answer": true
+    },
+    {
+        "question": "Das Verb 'gehen' bedeutet 'to go' auf Englisch.",
+        "answer": true
+    },
+    {
+        "question": "Alle deutschen Nomen werden klein geschrieben.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Apfel' ist maskulin.",
+        "answer": true
+    },
+    {
+        "question": "Im Deutschen gibt es keine Umlaute.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Buch' ist neutral.",
+        "answer": true
+    },
+    {
+        "question": "Die Mehrzahl von 'Kind' ist 'Kinder'.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Mädchen' ist feminin.",
+        "answer": false
+    },
+    {
+        "question": "Im Deutschen gibt es den Buchstaben 'ß'.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Hund' bedeutet 'dog' auf Englisch.",
+        "answer": true
+    },
+    {
+        "question": "Die deutsche Sprache verwendet das lateinische Alphabet.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Auto' ist ein deutsches Wort für 'car'.",
+        "answer": true
+    },
+    {
+        "question": "Im Deutschen steht das Verb immer am Satzende.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Tisch' ist maskulin.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Katze' ist neutral.",
+        "answer": false
+    },
+    {
+        "question": "Im Deutschen gibt es Artikel wie 'der', 'die', 'das'.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Freundin' ist feminin.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Baum' ist feminin.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Brot' ist neutral.",
+        "answer": true
+    },
+    {
+        "question": "Im Deutschen gibt es keine Fälle.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Vater' ist maskulin.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Mutter' ist maskulin.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Stuhl' ist maskulin.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Blume' ist feminin.",
+        "answer": true
+    },
+    {
+        "question": "Im Deutschen gibt es das Wort 'Wasser'.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Bleistift' bedeutet 'pencil' auf Englisch.",
+        "answer": true
+    },
+    {
+        "question": "Das Wort 'Schule' ist neutral.",
+        "answer": false
+    },
+    {
+        "question": "Das Wort 'Lehrer' ist maskulin.",
+        "answer": true
+    }
+]
