@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Skal en sætning begynde med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal man sætte punktum efter en helsætning?",
+        "answer": true
+    },
+    {
+        "question": "Skal egennavne altid starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal navne på ugedage skrives med stort bogstav på dansk?",
+        "answer": false
+    },
+    {
+        "question": "Skal navne på måneder skrives med stort bogstav på dansk?",
+        "answer": false
+    },
+    {
+        "question": "Skal man sætte komma foran 'men'?",
+        "answer": true
+    },
+    {
+        "question": "Skal man altid sætte komma foran 'og' i en opremsning?",
+        "answer": false
+    },
+    {
+        "question": "Skal et spørgsmål slutte med spørgsmålstegn?",
+        "answer": true
+    },
+    {
+        "question": "Skal en sætning altid have et udsagnsled?",
+        "answer": true
+    },
+    {
+        "question": "Skal man skrive 'jeg' med stort J midt i en sætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal et biord bøjes i køn?",
+        "answer": false
+    },
+    {
+        "question": "Skal et tillægsord kunne gradbøjes?",
+        "answer": true
+    },
+    {
+        "question": "Skal et substantiv kunne sættes i flertal?",
+        "answer": true
+    },
+    {
+        "question": "Skal en ledsætning kunne stå alene?",
+        "answer": false
+    },
+    {
+        "question": "Skal man altid sætte komma foran 'fordi'?",
+        "answer": false
+    },
+    {
+        "question": "Skal en helsætning kunne stå alene og give mening?",
+        "answer": true
+    },
+    {
+        "question": "Skal en tekst uden fejl kaldes korrekt?",
+        "answer": true
+    },
+    {
+        "question": "Skal man sætte udråbstegn efter en stærk følelse?",
+        "answer": true
+    },
+    {
+        "question": "Skal man skrive kolon før direkte tale?",
+        "answer": true
+    },
+    {
+        "question": "Skal man sætte punktum efter en overskrift?",
+        "answer": false
+    },
+    {
+        "question": "Skal ordet 'sin' altid henvise til grundleddet?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'hans' og 'sin' betyde det samme?",
+        "answer": false
+    },
+    {
+        "question": "Skal der altid være inversion efter et spørgeord?",
+        "answer": true
+    },
+    {
+        "question": "Skal der altid være komma foran en ledsætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal et udsagnsord bøjes i tid (nutid, datid)?",
+        "answer": true
+    },
+    {
+        "question": "Skal man sætte bindestreg i ordet 'hjemmearbejde'?",
+        "answer": false
+    },
+    {
+        "question": "Skal man sætte komma foran en tilføjelse?",
+        "answer": true
+    },
+    {
+        "question": "Skal der være inversion efter et adverbial i starten af en sætning?",
+        "answer": true
+    },
+    {
+        "question": "Skal et sammensat ord altid skrives i ét ord?",
+        "answer": true
+    },
+    {
+        "question": "Skal alle ord i dansk kunne bøjes?",
+        "answer": false
+    }
+]

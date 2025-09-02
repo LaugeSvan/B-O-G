@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Skal et egennavn altid starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal almindelige navneord altid starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal der komma foran 'men'?",
+        "answer": true
+    },
+    {
+        "question": "Skal der komma foran 'og' i en almindelig opremsning?",
+        "answer": false
+    },
+    {
+        "question": "Skal et spørgsmål slutte med spørgsmålstegn?",
+        "answer": true
+    },
+    {
+        "question": "Skal et udsagnsord bøjes i tid?",
+        "answer": true
+    },
+    {
+        "question": "Skal man skrive 'jeg' med stort J midt i en sætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal der altid være et udsagnsled i en helsætning?",
+        "answer": true
+    },
+    {
+        "question": "Skal et udsagn altid have et grundled?",
+        "answer": true
+    },
+    {
+        "question": "Skal der sættes punktum efter en overskrift?",
+        "answer": false
+    },
+    {
+        "question": "Skal et substantiv kunne sættes i flertal?",
+        "answer": false
+    },
+    {
+        "question": "Skal et tillægsord bøjes i køn og tal?",
+        "answer": true
+    },
+    {
+        "question": "Skal man altid sætte komma før 'fordi'?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning begynde med et stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal en tekst uden fejl hedde 'korrekt'?",
+        "answer": true
+    },
+    {
+        "question": "Skal man skrive 'du' med stort D på dansk?",
+        "answer": false
+    },
+    {
+        "question": "Skal talord fra et til ti skrives med bogstaver i skriftlig fremstilling?",
+        "answer": true
+    },
+    {
+        "question": "Skal der bindestreg mellem 'hjem' og 'arbejde' i ordet 'hjemmearbejde'?",
+        "answer": false
+    },
+    {
+        "question": "Skal navnet på måneder starte med stort bogstav på dansk?",
+        "answer": false
+    },
+    {
+        "question": "Skal navnet på ugedage starte med stort bogstav på dansk?",
+        "answer": false
+    },
+    {
+        "question": "Skal navne på lande starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal navne på sprog starte med stort bogstav på dansk?",
+        "answer": false
+    },
+    {
+        "question": "Skal ordet 'ikke' altid stå lige efter verbet?",
+        "answer": false
+    },
+    {
+        "question": "Skal en tekst altid have både punktum og komma?",
+        "answer": false
+    },
+    {
+        "question": "Skal man kunne finde grundled og udsagnsled i en helsætning?",
+        "answer": true
+    },
+    {
+        "question": "Skal man bruge kolon før en direkte tale?",
+        "answer": false
+    },
+    {
+        "question": "Skal man skrive udråbstegn efter en stærk følelse?",
+        "answer": true
+    },
+    {
+        "question": "Skal et biord bøjes i køn?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning have et grundled for at være grammatisk korrekt?",
+        "answer": true
+    },
+    {
+        "question": "Skal der punktum efter et udråbstegn?",
+        "answer": false
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Skal der sættes komma før ledsætninger, som begynder med 'at'?",
+        "answer": true
+    },
+    {
+        "question": "Skal der altid sættes komma foran en ledsætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal man sætte komma foran en tilføjelse i sætningen?",
+        "answer": true
+    },
+    {
+        "question": "Skal en helsætning altid indeholde både subjekt og verbal?",
+        "answer": true
+    },
+    {
+        "question": "Skal et sammensat ord på dansk altid skrives i ét ord?",
+        "answer": true
+    },
+    {
+        "question": "Skal der sættes komma foran 'som' i alle tilfælde?",
+        "answer": false
+    },
+    {
+        "question": "Skal et substantiv altid kunne bøjes i bestemt form?",
+        "answer": true
+    },
+    {
+        "question": "Skal et adjektiv stå efter substantivet på dansk?",
+        "answer": false
+    },
+    {
+        "question": "Skal et biord kunne gradbøjes?",
+        "answer": true
+    },
+    {
+        "question": "Skal man sætte punktum efter en forkortelse som 'osv.'?",
+        "answer": true
+    },
+    {
+        "question": "Skal et udsagnsord altid kunne bøjes i nutid og datid?",
+        "answer": true
+    },
+    {
+        "question": "Skal alle ord på dansk kunne bøjes?",
+        "answer": false
+    },
+    {
+        "question": "Skal man altid sætte komma foran 'der' i en relativsætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal en helsætning altid begynde med subjektet?",
+        "answer": false
+    },
+    {
+        "question": "Skal der altid være inversion efter et spørgeord?",
+        "answer": true
+    },
+    {
+        "question": "Skal man bruge apostrof i ejefald på dansk?",
+        "answer": false
+    },
+    {
+        "question": "Skal ordet 'sin' altid henvise til subjektet i sætningen?",
+        "answer": true
+    },
+    {
+        "question": "Skal man altid sætte komma foran 'fordi'?",
+        "answer": false
+    },
+    {
+        "question": "Skal en ledsætning altid slutte med et punktum?",
+        "answer": false
+    },
+    {
+        "question": "Skal man bruge bindestreg i talord som 'toogfyrre'?",
+        "answer": false
+    },
+    {
+        "question": "Skal et substantiv altid have køn (fælleskøn eller intetkøn)?",
+        "answer": true
+    },
+    {
+        "question": "Skal et ord som 'barn' kunne bøjes i pluralis?",
+        "answer": true
+    },
+    {
+        "question": "Skal der komma foran en infinitiv med 'at'?",
+        "answer": false
+    },
+    {
+        "question": "Skal man bruge nutids-r på alle verber i nutid?",
+        "answer": false
+    },
+    {
+        "question": "Skal ordet 'sin' kunne bøjes i køn og tal?",
+        "answer": true
+    },
+    {
+        "question": "Skal der altid sættes komma foran en ledsætning, hvis man bruger startkomma?",
+        "answer": true
+    },
+    {
+        "question": "Skal man skrive ord som 'computer' med kursiv, fordi det er låneord?",
+        "answer": false
+    },
+    {
+        "question": "Skal der altid være inversion efter et adverbial i starten af en sætning?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'hans' og 'sin' betyde det samme i en sætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning altid have et finit verbal?",
+        "answer": true
+    }
+]
