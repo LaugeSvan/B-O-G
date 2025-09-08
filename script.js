@@ -41,6 +41,32 @@ document.addEventListener("DOMContentLoaded", async () => {
     const container = document.getElementById("task-container");
     if (!container) return;
 
+    // shared context for Enter/Shift+Enter/Ctrl+Enter
+    let currentHandlerContext = null;
+
+    // one global key handler
+    document.addEventListener("keydown", e => {
+        if (e.key === "Enter" && currentHandlerContext) {
+            e.preventDefault();
+
+            if (e.ctrlKey) {
+                // Ctrl+Enter = finish immediately
+                showResult();
+                return;
+            }
+
+            if (e.shiftKey) {
+                // Shift+Enter = back
+                const backBtn = document.getElementById("back");
+                if (backBtn && !backBtn.disabled) backBtn.click();
+            } else {
+                // Enter = next
+                const nextBtn = document.getElementById("next");
+                if (nextBtn) nextBtn.click();
+            }
+        }
+    });
+
     function renderTask(idx) {
         if (!selected[idx]) {
             container.innerHTML = "<p>Ingen opgave fundet.</p>";
@@ -75,13 +101,27 @@ document.addEventListener("DOMContentLoaded", async () => {
                 <p>${q.question}</p>
                 ${answerInputHtml}
                 <br>
-                <button class="button" id="back" ${idx === 0 ? 'disabled' : ''}>Tilbage</button>
-                <button class="button" id="next">${idx === selected.length - 1 ? 'Afslut' : 'Næste'}</button>
+                <button 
+                    class="button" 
+                    id="back" 
+                    ${idx === 0 ? 'disabled' : ''} 
+                    title="Genvej: Shift+Enter"
+                >
+                    Tilbage
+                </button>
+                <button 
+                    class="button" 
+                    id="next" 
+                    title="${idx === selected.length - 1 ? 'Genvej: Ctrl+Enter' : 'Tryk Enter for at fortsætte til næste opgave, Ctrl+Enter for at afslutte'}"
+                >
+                    ${idx === selected.length - 1 ? 'Afslut' : 'Næste'}
+                </button>
             </div>
         `;
 
         if (topic === "spelling") {
             const input = document.getElementById("answer-input");
+            input.focus(); // auto-focus spelling box
             input.addEventListener("input", e => {
                 answers[idx] = e.target.value;
             });
@@ -107,6 +147,9 @@ document.addEventListener("DOMContentLoaded", async () => {
                 renderTask(current);
             }
         };
+
+        // update handler context for Enter logic
+        currentHandlerContext = { idx };
     }
 
     function showResult() {
@@ -133,11 +176,9 @@ document.addEventListener("DOMContentLoaded", async () => {
                         <p class="${wasCorrect ? "correct" : "wrong"}">
                             ${wasCorrect ? "✔ Rigtigt" : "✘ Forkert"}
                         </p>
-
                         <hr>
                     </div>
                 `;
-
             } else {
                 if (answers[i] === selected[i].answer) {
                     correct++;
@@ -162,7 +203,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             <h3>Resultat</h3>
             <p>Du svarede rigtigt på ${correct} ud af ${selected.length} spørgsmål.</p>
             ${resultDetails}
-            <button id="retry">Prøv igen</button>
+            <button id="retry" title="Genvej: Enter">Prøv igen</button>
         `;
 
         document.getElementById('retry').onclick = () => {
@@ -170,6 +211,9 @@ document.addEventListener("DOMContentLoaded", async () => {
             answers = Array(selected.length).fill(null);
             renderTask(current);
         };
+
+        // clear context so Enter doesn't try to click hidden buttons
+        currentHandlerContext = null;
     }
 
     renderTask(current);
