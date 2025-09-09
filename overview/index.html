@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>B-O-G - Oversigt</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body class="invert">
+    <nav class="center nav">
+
+    </nav>
+    <div class="intro center">
+        <h1 id="overviewName">Oversigt</h1>
+        <h2>Her kan du se dine stats!</h2>
+        <h6>Stats er gemt i cookies, så de bliver kun gemt på den enhed du bruger lige nu, så længe du ikke sletter dine cookies. Hvis du ikke kan se nogle tal, <strong id="cookieWarning">så tjek at dine cookies er slået til for B-O-G</strong>, eller prøv at lav en opgave!</h6>
+    </div>
+    <hr>
+    <div class="overview-stats center">
+        <h3>Du har svaret på <strong class="totalAnsText" style="color: cornflowerblue;">cookies er slået fra</strong> spørgsmål!</h3>
+        <h3>Du har svaret rigtigt på <strong id="correctAnsText" style="color: forestgreen;">cookies er slået fra</strong> ud af de <strong class="totalAnsText" style="color: cornflowerblue;">cookies er slået fra</strong> spørgsmål!</h3>
+        <h3>Og så har du desværre svaret forkert på <strong id="wrongAnsText" style="color: firebrick;">cookies er slået fra</strong> af de <strong class="totalAnsText" style="color: cornflowerblue;">cookies er slået fra</strong> spørgsmål.</h3>
+    </div>
+    <section id="cookieCon" class="center">
+    </section>
+    <script src="../cookie.js"></script>
+    <script src="../global.js"></script>
+    <script src="../overview.js"></script>
+</body>
+</html>

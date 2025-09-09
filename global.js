@@ -16,6 +16,7 @@
           </ul>
         </li>
         <li><a href="../about">Om Os</a></li>
+        <li><a href="../overview">Oversigt</a></li>
       </ul>
     `;
   });
