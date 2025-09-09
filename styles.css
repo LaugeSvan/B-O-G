@@ -101,6 +101,19 @@
 }
 
 /* Buttons */
+.txt-btn {
+    background: #222;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 15px;
+    margin: 1.5rem auto;
+    max-width: fit-content;
+}
+
 .button {
     cursor: pointer;
     padding: 0.6rem 1.2rem;
@@ -233,6 +246,24 @@ input[type="radio"] {
     font-weight: bold;
 }
 
+/* Fade in for div's */
+.fade-in {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 0.5s;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
 /* ---------------- Cookie Banner ---------------- */
 #cookies {
   position: fixed;
@@ -276,6 +307,67 @@ input[type="radio"] {
   color: yellow;
   font-weight: 500;
   text-decoration: none;
+}
+
+/* --------------- Help Dropdown -------------- */
+
+.help-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.help-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.help-dropdown-text {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.2s;
+    background-color: #222;
+}
+
+.help-dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #222;
+    min-width: 160px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    border-radius: 4px;
+    padding: 1.5em;
+    z-index: 100;
+    flex-direction: column;
+}
+
+.help-dropdown-content li {
+    display: block;
+}
+
+.help-dropdown-content a {
+    display: block;
+    padding: 0.5em 1em;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 0;
+    font-weight: normal;
+    transition: background 0.2s;
+}
+
+.help-dropdown-content a:hover {
+    background: #444;
+}
+
+.help-dropdown:hover .help-dropdown-content {
+    display: block;
 }
 
 /* ---------------- Responsive ---------------- */

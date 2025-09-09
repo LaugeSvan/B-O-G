@@ -1,6 +1,7 @@
 // Select all navs with the class 'nav'
   const navs = document.querySelectorAll('nav.nav');
   const cookie = document.getElementById('cookieCon');
+  const cookieDesc = document.getElementById('cookieDescHelp');
 
   navs.forEach(nav => {
     nav.innerHTML = `
@@ -17,6 +18,7 @@
         </li>
         <li><a href="../about">Om Os</a></li>
         <li><a href="../overview">Oversigt</a></li>
+        <li><a href="../help">Hjælp og tips</a></li>
       </ul>
     `;
   });
