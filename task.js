@@ -115,14 +115,14 @@ document.addEventListener("DOMContentLoaded", async () => {
                     class="button" 
                     id="back" 
                     ${idx === 0 ? 'disabled' : ''} 
-                    title="Genvej: Shift+Enter"
+                    title="Tryk Shift+Enter for at gå tilbage til forrige opgave"
                 >
                     Tilbage
                 </button>
                 <button 
                     class="button" 
                     id="next" 
-                    title="${idx === selected.length - 1 ? 'Genvej: Ctrl+Enter' : 'Tryk Enter for at fortsætte til næste opgave, Ctrl+Enter for at afslutte'}"
+                    title="Tryk Enter for at fortsætte til næste opgave, Ctrl+Enter for at afslutte"
                 >
                     ${idx === selected.length - 1 ? 'Afslut' : 'Næste'}
                 </button>
@@ -242,7 +242,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             <h3>Resultat</h3>
             <p>Du svarede rigtigt på ${correct} ud af ${selected.length} spørgsmål.</p>
             ${resultDetails}
-            <button id="retry" title="Genvej: Enter">Prøv igen</button>
+            <button id="retry" title="Tryk Enter for at prøve igen">Prøv igen</button>
         `;
 
         // Retry button handler: shuffle new questions and reset quiz
