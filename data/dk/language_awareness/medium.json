@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Skal en sætning altid starte med et stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal et spørgsmål slutte med et spørgsmålstegn?",
+        "answer": true
+    },
+    {
+        "question": "Skal et egennavn starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal almindelige navneord starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal der komma før 'og' i en opremsning?",
+        "answer": false
+    },
+    {
+        "question": "Skal et udsagnsord bøjes i tid?",
+        "answer": true
+    },
+    {
+        "question": "Skal 'jeg' skrives med stort J midt i en sætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal en helsætning have et udsagnsled?",
+        "answer": true
+    },
+    {
+        "question": "Skal navne på måneder starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal talord fra et til ti skrives med bogstaver?",
+        "answer": true
+    },
+    {
+        "question": "Skal et udråbstegn bruges efter en stærk følelse?",
+        "answer": true
+    },
+    {
+        "question": "Skal navne på ugedage starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning slutte med et punktum?",
+        "answer": true
+    },
+    {
+        "question": "Skal 'du' skrives med stort D på dansk?",
+        "answer": false
+    },
+    {
+        "question": "Skal navne på lande starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal navne på sprog starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal der punktum efter en overskrift?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning have et grundled?",
+        "answer": true
+    },
+    {
+        "question": "Skal et komma adskille to helsætninger?",
+        "answer": true
+    },
+    {
+        "question": "Skal der komma efter 'hej' i en hilsen?",
+        "answer": true
+    },
+    {
+        "question": "Skal bogstavet 'i' altid skrives som lille bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal et spørgsmål altid have et verbum?",
+        "answer": true
+    },
+    {
+        "question": "Skal der komma før 'at' i en sætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal et navn som 'København' starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'bog' starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning have mindst ét ord?",
+        "answer": true
+    },
+    {
+        "question": "Skal der komma før 'men' i en sætning?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'sol' starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal et udsagn altid slutte med et tegnsætningstegn?",
+        "answer": true
+    },
+    {
+        "question": "Skal navnet 'Danmark' skrives med stort D?",
+        "answer": true
+    }
+]

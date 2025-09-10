@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Betyder ordet 'bog' et sted, man bor?",
+        "answer": false
+    },
+    {
+        "question": "Er 'sol' et ord for noget, der lyser om dagen?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'træ' en plante med blade?",
+        "answer": true
+    },
+    {
+        "question": "Er 'himmel' noget, man finder under jorden?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'hund' et dyr, der miaver?",
+        "answer": false
+    },
+    {
+        "question": "Er 'æble' en frugt?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'bord' en ting, man sover i?",
+        "answer": false
+    },
+    {
+        "question": "Er 'blomst' noget, der vokser i haven?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'bil' et transportmiddel?",
+        "answer": true
+    },
+    {
+        "question": "Er 'måne' noget, der skinner om natten?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'hav' en lille dam?",
+        "answer": false
+    },
+    {
+        "question": "Er 'fugl' et dyr, der kan flyve?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'sko' noget, man spiser?",
+        "answer": false
+    },
+    {
+        "question": "Er 'træt' et ord for at være søvnig?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'dør' en åbning i en mur?",
+        "answer": true
+    },
+    {
+        "question": "Er 'vind' noget, der står stille?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'hus' et sted, hvor folk bor?",
+        "answer": true
+    },
+    {
+        "question": "Er 'is' noget, der er varmt?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'barn' en ung person?",
+        "answer": true
+    },
+    {
+        "question": "Er 'sky' noget, der findes under vandet?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'mad' noget, man spiser?",
+        "answer": true
+    },
+    {
+        "question": "Er 'træ' et ord for en flod?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'glad' at være i godt humør?",
+        "answer": true
+    },
+    {
+        "question": "Er 'seng' noget, man sidder ved for at spise?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'vand' en væske, man drikker?",
+        "answer": true
+    },
+    {
+        "question": "Er 'sol' noget, der er koldt?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'have' et sted med planter?",
+        "answer": true
+    },
+    {
+        "question": "Er 'kat' et dyr, der gør?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'dag' en tid med lys?",
+        "answer": true
+    },
+    {
+        "question": "Er 'blødt' noget, der er hårdt?",
+        "answer": false
+    }
+]

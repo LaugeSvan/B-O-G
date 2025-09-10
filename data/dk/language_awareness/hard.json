@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Skal en relativsætning med 'som' altid have komma før?",
+        "answer": false
+    },
+    {
+        "question": "Skal sammensatte tider altid bruge hjælpeverber som 'har' eller 'er'?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'ikke' altid stå umiddelbart efter verbet i en helsætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal en ledsætning altid indledes med et bindeord?",
+        "answer": true
+    },
+    {
+        "question": "Skal et infinitiv altid stå med 'at' foran i en sætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal et genstandsled altid stå direkte efter verbet?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning med flere ledsætninger altid have komma mellem dem?",
+        "answer": false
+    },
+    {
+        "question": "Skal et adverbial altid placeres sidst i en sætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal der bruges kolon før en direkte tale i dansk?",
+        "answer": false
+    },
+    {
+        "question": "Skal et tillægsord altid stå før det substantiv, det beskriver?",
+        "answer": false
+    },
+    {
+        "question": "Skal en passiv sætning altid bruge verbet 'blive'?",
+        "answer": false
+    },
+    {
+        "question": "Skal et dativled altid stå før et akkusativled?",
+        "answer": true
+    },
+    {
+        "question": "Skal en bisætning altid have en omvendt ordstilling?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'man' skrives med stort M i en sætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning med en indskudt ledsætning altid have komma omkring den?",
+        "answer": true
+    },
+    {
+        "question": "Skal et refleksivt verbum altid bruges med et refleksivt pronomen?",
+        "answer": true
+    },
+    {
+        "question": "Skal en sætning med 'enten ... eller' altid have komma før 'eller'?",
+        "answer": false
+    },
+    {
+        "question": "Skal et verbum i imperativ have et subjekt?",
+        "answer": false
+    },
+    {
+        "question": "Skal et præpositionsled altid stå efter verbet?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning med 'hverken ... eller' have komma før 'eller'?",
+        "answer": false
+    },
+    {
+        "question": "Skal et tillægsord i superlativ altid ende på '-st'?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning med en indirekte tale have komma før talen?",
+        "answer": false
+    },
+    {
+        "question": "Skal et verbum i konjunktiv altid bruge 'være' eller 'have'?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning med flere infinitiver altid have komma mellem dem?",
+        "answer": false
+    },
+    {
+        "question": "Skal et participium altid bruges som tillægsord?",
+        "answer": false
+    },
+    {
+        "question": "Skal et adverb altid stå efter det verbum, det beskriver?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning med 'selvom' altid have komma før ledsætningen?",
+        "answer": true
+    },
+    {
+        "question": "Skal et verbum i futurum altid bruge hjælpeverbet 'vil'?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning med en apposition altid have komma omkring den?",
+        "answer": true
+    },
+    {
+        "question": "Skal et tillægsord i komparativ altid ende på '-ere'?",
+        "answer": false
+    }
+]

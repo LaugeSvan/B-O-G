@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Kan 'at være på kanten' antyde en følelse af stress?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at tage noget for givet' at værdsætte det meget?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'en bitter tone' indikere vrede eller skuffelse?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at slå sig ned' det samme som at rejse ofte?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'at lægge mærke til' betyde at observere noget nøje?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at holde lav profil' at være meget synlig?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'en skjult dagsorden' antyde hemmelige motiver?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at tage teten' det samme som at give op?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'at vende det blinde øje til' betyde at ignorere noget?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at stå på egne ben' at være afhængig af andre?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'en lun stemning' antyde noget behageligt og afslappet?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at kaste sig ud i noget' det samme som at være forsigtig?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'at lægge kortene på bordet' betyde at være ærlig?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at være i syv sind' at være sikker på en beslutning?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'en tør humor' referere til subtil og ironisk humor?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at gå over gevind' det samme som at handle roligt?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'at tage noget med et gran salt' betyde at være skeptisk?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at have noget på hjerte' at være ligeglad?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'en spændt atmosfære' indikere nervøsitet?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at slå to fluer med ét smæk' at mislykkes i noget?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'at holde tungen lige i munden' betyde at være omhyggelig?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at have frit spil' at have mange begrænsninger?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'en underliggende tone' antyde noget usagt?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at vende op og ned på noget' det samme som at lade det være?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'at tage noget op til revision' betyde at genoverveje?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at stå med håret i postkassen' at være forberedt?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'en satirisk tone' indikere kritik gennem humor?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at køre på rutinen' det samme som at tænke nyt?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'at lægge låg på noget' betyde at afslutte en diskussion?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at være på hjemmebane' at føle sig usikker?",
+        "answer": false
+    }
+]

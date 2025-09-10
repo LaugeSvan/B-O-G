@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Betyder 'at tage på ferie' at rejse til et nyt sted?",
+        "answer": true
+    },
+    {
+        "question": "Er 'han løber hurtigt' det samme som 'han går langsomt'?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'morgen' referere til tiden før middag?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at hjælpe' at gøre noget dårligt for nogen?",
+        "answer": false
+    },
+    {
+        "question": "Er 'en smuk blomst' en positiv beskrivelse?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at vente' at skynde sig?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'aften' referere til tiden efter solnedgang?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at læse en bog' det samme som at spise en bog?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'venlig' at være høflig og rar?",
+        "answer": true
+    },
+    {
+        "question": "Kan 'at cykle' betyde at bruge en bil?",
+        "answer": false
+    },
+    {
+        "question": "Er 'en kold vinter' en sæsonbeskrivelse?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at synge' at tale stille?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'en stor by' referere til et sted med mange mennesker?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at stå op' det samme som at sove?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'at spise middag' at spise om aftenen?",
+        "answer": true
+    },
+    {
+        "question": "Kan 'en tung taske' betyde noget let?",
+        "answer": false
+    },
+    {
+        "question": "Er 'at gå i skole' en aktivitet for børn?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at grine' at være ked af det?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'en klar himmel' betyde ingen skyer?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at købe' det samme som at sælge?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'at danse' at bevæge sig til musik?",
+        "answer": true
+    },
+    {
+        "question": "Kan 'en lille bil' referere til en stor lastbil?",
+        "answer": false
+    },
+    {
+        "question": "Er 'at lære' en proces med at få viden?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at svømme' at sidde stille?",
+        "answer": false
+    },
+    {
+        "question": "Kan 'en varm sommer' beskrive vejret?",
+        "answer": true
+    },
+    {
+        "question": "Er 'at løbe' det samme som at stå stille?",
+        "answer": false
+    },
+    {
+        "question": "Betyder 'at invitere' at bede nogen om at komme?",
+        "answer": true
+    },
+    {
+        "question": "Kan 'en rolig dag' betyde en hektisk dag?",
+        "answer": false
+    },
+    {
+        "question": "Er 'at tegne' en kreativ aktivitet?",
+        "answer": true
+    },
+    {
+        "question": "Betyder 'at hvile' at arbejde hårdt?",
+        "answer": false
+    }
+]

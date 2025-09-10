@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Skal en sætning starte med et stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal et spørgsmål slutte med et spørgsmålstegn?",
+        "answer": true
+    },
+    {
+        "question": "Skal navnet 'Peter' starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'hund' starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning slutte med et punktum?",
+        "answer": true
+    },
+    {
+        "question": "Skal 'jeg' skrives med stort J i en sætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal navnet 'Danmark' starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'bord' starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal der komma før 'og' i en liste?",
+        "answer": false
+    },
+    {
+        "question": "Skal et udråbstegn bruges efter 'Hurra'?",
+        "answer": true
+    },
+    {
+        "question": "Skal navnet 'Sofie' starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'træ' starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning have et verbum?",
+        "answer": true
+    },
+    {
+        "question": "Skal 'du' skrives med stort D i en sætning?",
+        "answer": false
+    },
+    {
+        "question": "Skal navnet 'København' starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'bil' starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal der punktum efter et spørgsmålstegn?",
+        "answer": false
+    },
+    {
+        "question": "Skal navnet 'Sverige' starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'æble' starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning have mindst ét ord?",
+        "answer": true
+    },
+    {
+        "question": "Skal navnet 'Anna' starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'sol' starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal der komma efter 'hej' i en hilsen?",
+        "answer": true
+    },
+    {
+        "question": "Skal navnet 'Odense' starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'fugl' starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal en sætning slutte med et tegnsætningstegn?",
+        "answer": true
+    },
+    {
+        "question": "Skal navnet 'Norge' starte med stort bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal ordet 'blomst' starte med stort bogstav?",
+        "answer": false
+    },
+    {
+        "question": "Skal bogstavet 'i' skrives som lille bogstav?",
+        "answer": true
+    },
+    {
+        "question": "Skal navnet 'Mette' starte med stort bogstav?",
+        "answer": true
+    }
+]
