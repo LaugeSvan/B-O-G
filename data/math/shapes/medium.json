@@ -1,0 +1,122 @@
+[
+    {
+        "question": "A rectangle with length 6 and width 4 has an area of 24. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A square with side 5 has an area of 20. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A triangle with base 8 and height 5 has an area of 20. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A hexagon has more corners than a square. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A pentagon has fewer sides than a triangle. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A rectangle has 2 pairs of equal sides. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A square is also a rectangle. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A circle has infinite corners. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A right-angled triangle has one angle equal to 90 degrees. True or False?",
+        "answer": true
+    },
+    {
+        "question": "An equilateral triangle has all sides equal. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A rectangle has 4 corners. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A trapezoid always has 2 parallel sides. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A hexagon has 7 sides. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A square has all angles equal to 90 degrees. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A triangle with angles 60, 60, and 60 is called equilateral. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A parallelogram has all sides equal. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A circle is a polygon. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A pentagon has 5 corners. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A hexagon has fewer corners than a square. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A rectangle with length 8 and width 2 has a perimeter of 20. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A rhombus has 4 equal sides. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A trapezoid has exactly 3 sides. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A square has more sides than a triangle. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A circle has one continuous curved side. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A right-angled triangle can have two angles of 90 degrees. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A hexagon with side length 4 has a perimeter of 24. True or False?",
+        "answer": true
+    },
+    {
+        "question": "An equilateral triangle has one angle of 90 degrees. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A parallelogram has opposite sides equal. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A pentagon is a closed shape. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A square has all sides equal and all angles equal. True or False?",
+        "answer": true
+    }
+]

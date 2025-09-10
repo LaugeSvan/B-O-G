@@ -1,0 +1,122 @@
+[
+    {
+        "question": "If you have 3 apples and get 2 more, you now have 5 apples. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You have 10 candies. You eat 4. You now have 8 candies. True or False?",
+        "answer": false
+    },
+    {
+        "question": "There are 5 birds on a tree. 2 fly away. There are 3 birds left. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You have 7 pencils and buy 3 more. You now have 9 pencils. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A box has 6 balls. You add 4 more balls. Total balls are 10. True or False?",
+        "answer": true
+    },
+    {
+        "question": "If a car has 4 wheels and you have 2 cars, there are 8 wheels total. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You read 2 books on Monday and 3 on Tuesday. You read 5 books in total. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A basket has 10 oranges. You give 3 to a friend. 8 oranges are left. True or False?",
+        "answer": false
+    },
+    {
+        "question": "There are 8 chairs in a room. 2 are broken. 6 usable chairs remain. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You have 4 red balloons and 3 blue balloons. You have 6 balloons in total. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A dog has 4 legs. 3 dogs have 12 legs in total. True or False?",
+        "answer": true
+    },
+    {
+        "question": "There are 5 cats. Each cat has 1 tail. Total tails are 5. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You save 2 dollars each day for 5 days. Total saved is 10 dollars. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You eat 1 apple every day for 7 days. Total eaten is 6 apples. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A bag has 9 candies. You eat 3 and give 2 away. 4 candies remain. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You have 6 books. Your friend gives you 4 more. You now have 10 books. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A farmer has 5 cows and 3 sheep. Total animals are 8. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You have 3 pencils, 2 pens, and 1 eraser. Total items are 6. True or False?",
+        "answer": true
+    },
+    {
+        "question": "There are 12 eggs. You use 5 for breakfast. 7 eggs remain. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A pizza is cut into 8 slices. You eat 3 slices. 4 slices remain. True or False?",
+        "answer": false
+    },
+    {
+        "question": "You collect 10 stamps and buy 5 more. You now have 15 stamps. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A basket has 7 apples. You eat 2. 5 apples remain. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You have 3 boxes with 4 toys each. Total toys are 12. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A pack has 20 cards. You give 7 to a friend. 12 cards remain. True or False?",
+        "answer": false
+    },
+    {
+        "question": "You read 2 pages each day for 5 days. Total pages read are 10. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You have 6 chocolates. You eat 2 and give 1 away. 4 chocolates remain. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A school has 15 classrooms. 3 are closed for cleaning. 12 classrooms remain usable. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You save 5 dollars a week for 4 weeks. Total saved is 20 dollars. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A shop sells 30 apples. 12 are sold. 18 apples remain. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You have 8 pencils. You give away 3. You now have 6 pencils. True or False?",
+        "answer": false
+    }
+]

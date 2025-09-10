@@ -1,0 +1,122 @@
+[
+    {
+        "question": "A train travels 120 km in 2 hours. Another train travels 180 km in 3 hours. Both trains have the same speed. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A rectangle has a length of 15 and width of 8. Its area is 120. True or False?",
+        "answer": false
+    },
+    {
+        "question": "You buy 3 notebooks at $2.50 each and 2 pens at $1.50 each. Total cost is $10. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A car drives 60 km in 1 hour and 90 km in 1.5 hours. Both trips are at the same speed. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You have $100. You spend $30, then $20, and save $60. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A farmer has 12 cows and 15 sheep. He sells 5 cows. Total animals left are 22. True or False?",
+        "answer": true
+    },
+    {
+        "question": "If a cake is cut into 16 slices and 10 slices are eaten, 6 slices remain. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A bus has 50 seats. 20 passengers get off and 15 get on. There are now 45 passengers. True or False?",
+        "answer": false
+    },
+    {
+        "question": "You run 5 km on Monday, 7 km on Tuesday, and 8 km on Wednesday. Total distance run is 20 km. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A book has 300 pages. You read 40 pages per day. You finish the book in 7 days. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A box contains 24 chocolates. You eat 5 and give 7 to a friend. Remaining chocolates are 12. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You save $15 per week for 6 weeks. Total saved is $80. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A rectangle has a perimeter of 30 and length of 10. Width is 5. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A train travels 150 km in 3 hours. Its average speed is 60 km/h. True or False?",
+        "answer": false
+    },
+    {
+        "question": "You have 5 packs of 12 stickers each. Total stickers are 60. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A car travels 240 km in 4 hours and another car 300 km in 5 hours. Both travel at the same speed. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A classroom has 10 tables. Each table has 3 chairs. Total chairs are 30. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A fruit basket has 15 apples. You eat 5 and give 4 away. Remaining apples are 6. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You read 20 pages per day for 5 days. Total pages read are 100. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You have $200. You spend $50 on groceries and $100 on clothes. Remaining money is $60. True or False?",
+        "answer": false
+    },
+    {
+        "question": "A baker bakes 48 muffins. He packs them into boxes of 8. Total boxes are 6. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A train travels 180 km in 3 hours. Its average speed is 70 km/h. True or False?",
+        "answer": false
+    },
+    {
+        "question": "You have 3 boxes of pencils with 10 pencils each. Total pencils are 30. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A car travels 90 km at 60 km/h. It takes 1.5 hours. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A pizza is cut into 12 slices. You eat 5 slices and 6 are left. True or False?",
+        "answer": false
+    },
+    {
+        "question": "You save $25 per week for 8 weeks. Total saved is $200. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A school has 20 classrooms. 5 are closed for maintenance. 15 classrooms remain usable. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A rectangle has length 12 and width 5. Area is 60. True or False?",
+        "answer": true
+    },
+    {
+        "question": "A shop sells 40 apples. You buy 15 and give 10 away. Remaining apples are 25. True or False?",
+        "answer": true
+    },
+    {
+        "question": "You read 10 pages per day for 7 days. Total pages read are 80. True or False?",
+        "answer": false
+    }
+]
