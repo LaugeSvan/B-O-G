@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Should identifying the author’s tone help you understand the text?",
+        "answer": true
+    },
+    {
+        "question": "Should making inferences mean guessing without any evidence?",
+        "answer": false
+    },
+    {
+        "question": "Should making inferences use clues from the text and your knowledge?",
+        "answer": true
+    },
+    {
+        "question": "Should distinguishing fact from opinion be important in nonfiction?",
+        "answer": true
+    },
+    {
+        "question": "Should understanding figurative language help with reading comprehension?",
+        "answer": true
+    },
+    {
+        "question": "Should similes compare two things using 'like' or 'as'?",
+        "answer": true
+    },
+    {
+        "question": "Should metaphors literally describe something?",
+        "answer": false
+    },
+    {
+        "question": "Should identifying cause and effect improve understanding of a text?",
+        "answer": true
+    },
+    {
+        "question": "Should predicting outcomes be based only on your imagination, not the text?",
+        "answer": false
+    },
+    {
+        "question": "Should summarizing involve leaving out minor details?",
+        "answer": true
+    },
+    {
+        "question": "Should analyzing a character include looking at their actions and motivations?",
+        "answer": true
+    },
+    {
+        "question": "Should context clues only include the sentence with the unknown word?",
+        "answer": false
+    },
+    {
+        "question": "Should evaluating a text include judging its credibility and reliability?",
+        "answer": true
+    },
+    {
+        "question": "Should main ideas always be found in the first sentence of a paragraph?",
+        "answer": false
+    },
+    {
+        "question": "Should headings and subheadings guide you to important information?",
+        "answer": true
+    },
+    {
+        "question": "Should summarizing a paragraph require copying sentences word for word?",
+        "answer": false
+    },
+    {
+        "question": "Should recognizing repeated words or ideas help identify the theme?",
+        "answer": true
+    },
+    {
+        "question": "Should understanding irony or sarcasm improve comprehension?",
+        "answer": true
+    },
+    {
+        "question": "Should evaluating the author’s purpose help you understand bias?",
+        "answer": true
+    },
+    {
+        "question": "Should making predictions while reading be flexible and adjustable?",
+        "answer": true
+    },
+    {
+        "question": "Should distinguishing between literal and figurative meanings be important?",
+        "answer": true
+    },
+    {
+        "question": "Should tone always be identified through a single word?",
+        "answer": false
+    },
+    {
+        "question": "Should understanding point of view help interpret a story?",
+        "answer": true
+    },
+    {
+        "question": "Should first-person narration use pronouns like 'I' and 'we'?",
+        "answer": true
+    },
+    {
+        "question": "Should third-person narration use pronouns like 'he', 'she', and 'they'?",
+        "answer": true
+    },
+    {
+        "question": "Should distinguishing between main ideas and supporting details be unnecessary?",
+        "answer": false
+    },
+    {
+        "question": "Should cause-and-effect relationships in a story help you understand character actions?",
+        "answer": true
+    },
+    {
+        "question": "Should recognizing patterns in a text help you predict future events?",
+        "answer": true
+    },
+    {
+        "question": "Should analyzing word choice help you understand the author’s tone?",
+        "answer": true
+    },
+    {
+        "question": "Should evaluating arguments include checking for logical reasoning?",
+        "answer": true
+    }
+]

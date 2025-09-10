@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Should you always use a comma before 'but' in a compound sentence?",
+        "answer": true
+    },
+    {
+        "question": "Should you always use a comma before 'and' in a simple list?",
+        "answer": false
+    },
+    {
+        "question": "Should you place a comma after an introductory phrase?",
+        "answer": true
+    },
+    {
+        "question": "Should you put a comma before 'because' in every sentence?",
+        "answer": false
+    },
+    {
+        "question": "Should 'its' and 'it's' be used interchangeably?",
+        "answer": false
+    },
+    {
+        "question": "Should 'they're', 'their', and 'there' all mean the same thing?",
+        "answer": false
+    },
+    {
+        "question": "Should quotation marks in American English go outside the period?",
+        "answer": false
+    },
+    {
+        "question": "Should quotation marks in American English go outside the comma?",
+        "answer": false
+    },
+    {
+        "question": "Should you capitalize the first word after a colon in American English?",
+        "answer": true
+    },
+    {
+        "question": "Should you use 'a' before the word 'university'?",
+        "answer": true
+    },
+    {
+        "question": "Should you use 'an' before the word 'hour'?",
+        "answer": true
+    },
+    {
+        "question": "Should collective nouns like 'team' always be singular in American English?",
+        "answer": true
+    },
+    {
+        "question": "Should irregular verbs always end in -ed in the past tense?",
+        "answer": false
+    },
+    {
+        "question": "Should pronouns agree in number with the nouns they replace?",
+        "answer": true
+    },
+    {
+        "question": "Should you always split an infinitive verb in English?",
+        "answer": false
+    },
+    {
+        "question": "Should commas be used to separate adjectives of equal importance?",
+        "answer": true
+    },
+    {
+        "question": "Should every independent clause be able to stand alone as a sentence?",
+        "answer": true
+    },
+    {
+        "question": "Should dependent clauses be able to stand alone as sentences?",
+        "answer": false
+    },
+    {
+        "question": "Should you use 'who' as the subject of a verb?",
+        "answer": true
+    },
+    {
+        "question": "Should you use 'whom' as the subject of a verb?",
+        "answer": false
+    },
+    {
+        "question": "Should subject and verb agree in number?",
+        "answer": true
+    },
+    {
+        "question": "Should the word 'data' always be treated as singular in formal English?",
+        "answer": false
+    },
+    {
+        "question": "Should titles of short works like poems be italicized?",
+        "answer": false
+    },
+    {
+        "question": "Should titles of long works like books be italicized?",
+        "answer": true
+    },
+    {
+        "question": "Should you always put a comma before 'etc.' in a sentence?",
+        "answer": true
+    },
+    {
+        "question": "Should the past perfect tense use 'had' plus the past participle?",
+        "answer": true
+    },
+    {
+        "question": "Should 'less' be used with countable nouns?",
+        "answer": false
+    },
+    {
+        "question": "Should 'fewer' be used with countable nouns?",
+        "answer": true
+    },
+    {
+        "question": "Should pronouns like 'anyone' and 'everyone' be singular?",
+        "answer": true
+    },
+    {
+        "question": "Should a semicolon be used between two independent clauses joined without a conjunction?",
+        "answer": true
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Should analyzing an author’s bias help you evaluate the reliability of a text?",
+        "answer": true
+    },
+    {
+        "question": "Should making inferences rely solely on your personal opinion?",
+        "answer": false
+    },
+    {
+        "question": "Should drawing conclusions use evidence from multiple parts of a text?",
+        "answer": true
+    },
+    {
+        "question": "Should identifying implicit meanings be part of deep comprehension?",
+        "answer": true
+    },
+    {
+        "question": "Should evaluating the use of persuasive techniques be important in advertisements?",
+        "answer": true
+    },
+    {
+        "question": "Should analyzing symbolism in literature always require understanding cultural context?",
+        "answer": true
+    },
+    {
+        "question": "Should recognizing unreliable narrators help understand a story’s perspective?",
+        "answer": true
+    },
+    {
+        "question": "Should critical reading include questioning the author’s assumptions?",
+        "answer": true
+    },
+    {
+        "question": "Should differentiating between explicit and implicit information improve comprehension?",
+        "answer": true
+    },
+    {
+        "question": "Should evaluating the effectiveness of an argument consider evidence quality?",
+        "answer": true
+    },
+    {
+        "question": "Should comparing multiple texts on the same topic help deepen understanding?",
+        "answer": true
+    },
+    {
+        "question": "Should recognizing patterns of repetition and contrast be used in literary analysis?",
+        "answer": true
+    },
+    {
+        "question": "Should understanding connotation and denotation improve interpretation of words?",
+        "answer": true
+    },
+    {
+        "question": "Should determining the author’s intent consider both language and structure?",
+        "answer": true
+    },
+    {
+        "question": "Should evaluating persuasive writing include identifying emotional appeals?",
+        "answer": true
+    },
+    {
+        "question": "Should questioning the validity of statistics in a text be part of comprehension?",
+        "answer": true
+    },
+    {
+        "question": "Should analyzing cause-and-effect relationships require connecting multiple events?",
+        "answer": true
+    },
+    {
+        "question": "Should distinguishing between literal and figurative language be part of advanced reading?",
+        "answer": true
+    },
+    {
+        "question": "Should recognizing tone shifts help understand complex texts?",
+        "answer": true
+    },
+    {
+        "question": "Should interpreting multiple points of view in a text deepen understanding?",
+        "answer": true
+    },
+    {
+        "question": "Should questioning assumptions in a text always be ignored?",
+        "answer": false
+    },
+    {
+        "question": "Should analyzing text structure, like cause-effect or problem-solution, help comprehension?",
+        "answer": true
+    },
+    {
+        "question": "Should identifying rhetorical devices like repetition and parallelism aid comprehension?",
+        "answer": true
+    },
+    {
+        "question": "Should evaluating credibility of sources be part of reading nonfiction?",
+        "answer": true
+    },
+    {
+        "question": "Should understanding historical and cultural context help interpret texts accurately?",
+        "answer": true
+    },
+    {
+        "question": "Should comparing different authors’ perspectives help form your own opinion?",
+        "answer": true
+    },
+    {
+        "question": "Should predicting outcomes in a story ignore prior events?",
+        "answer": false
+    },
+    {
+        "question": "Should synthesizing information from several texts require connecting ideas?",
+        "answer": true
+    },
+    {
+        "question": "Should evaluating persuasive language include identifying bias or loaded words?",
+        "answer": true
+    },
+    {
+        "question": "Should analyzing theme require looking at recurring ideas and character actions?",
+        "answer": true
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Should you look at the title of a text to get an idea of the topic?",
+        "answer": true
+    },
+    {
+        "question": "Should every story have a beginning, middle, and end?",
+        "answer": true
+    },
+    {
+        "question": "Should pictures in a text help you understand the meaning?",
+        "answer": true
+    },
+    {
+        "question": "Should skimming mean reading every word carefully?",
+        "answer": false
+    },
+    {
+        "question": "Should scanning help you find specific information quickly?",
+        "answer": true
+    },
+    {
+        "question": "Should a main idea tell what the whole text is about?",
+        "answer": true
+    },
+    {
+        "question": "Should details in a text support the main idea?",
+        "answer": true
+    },
+    {
+        "question": "Should headings and subheadings help organize information?",
+        "answer": true
+    },
+    {
+        "question": "Should fiction texts always be true stories?",
+        "answer": false
+    },
+    {
+        "question": "Should nonfiction texts give facts and information?",
+        "answer": true
+    },
+    {
+        "question": "Should characters in a story always be real people?",
+        "answer": false
+    },
+    {
+        "question": "Should you use context clues to figure out the meaning of new words?",
+        "answer": true
+    },
+    {
+        "question": "Should the author’s purpose be the reason they wrote the text?",
+        "answer": true
+    },
+    {
+        "question": "Should the author’s purpose always be to entertain?",
+        "answer": false
+    },
+    {
+        "question": "Should the setting of a story describe where and when it happens?",
+        "answer": true
+    },
+    {
+        "question": "Should the main character in a story always be perfect?",
+        "answer": false
+    },
+    {
+        "question": "Should predicting while reading help you understand the text?",
+        "answer": true
+    },
+    {
+        "question": "Should rereading a difficult part of the text help with comprehension?",
+        "answer": true
+    },
+    {
+        "question": "Should you always understand a text the first time you read it?",
+        "answer": false
+    },
+    {
+        "question": "Should bold and italic text sometimes show important words?",
+        "answer": true
+    },
+    {
+        "question": "Should a glossary in a book explain word meanings?",
+        "answer": true
+    },
+    {
+        "question": "Should the plot describe the events that happen in a story?",
+        "answer": true
+    },
+    {
+        "question": "Should the problem in a story always be solved?",
+        "answer": false
+    },
+    {
+        "question": "Should nonfiction texts sometimes include charts and diagrams?",
+        "answer": true
+    },
+    {
+        "question": "Should a fable always include talking animals?",
+        "answer": false
+    },
+    {
+        "question": "Should context clues always give the exact definition of a word?",
+        "answer": false
+    },
+    {
+        "question": "Should summarizing mean retelling only the most important parts?",
+        "answer": true
+    },
+    {
+        "question": "Should readers always agree with the author’s opinion?",
+        "answer": false
+    },
+    {
+        "question": "Should illustrations sometimes explain things the text does not?",
+        "answer": true
+    },
+    {
+        "question": "Should comparing and contrasting mean looking at similarities and differences?",
+        "answer": true
+    }
+]

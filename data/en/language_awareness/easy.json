@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Should formal writing avoid slang words?",
+        "answer": true
+    },
+    {
+        "question": "Should spoken language always be the same as written language?",
+        "answer": false
+    },
+    {
+        "question": "Should emails to friends use the same style as school essays?",
+        "answer": false
+    },
+    {
+        "question": "Should polite language include words like 'please' and 'thank you'?",
+        "answer": true
+    },
+    {
+        "question": "Should contractions like 'can't' and 'won't' often appear in spoken English?",
+        "answer": true
+    },
+    {
+        "question": "Should contractions always be avoided in formal writing?",
+        "answer": true
+    },
+    {
+        "question": "Should text messages usually be more informal than letters?",
+        "answer": true
+    },
+    {
+        "question": "Should dictionaries always contain every slang word?",
+        "answer": false
+    },
+    {
+        "question": "Should language change over time?",
+        "answer": true
+    },
+    {
+        "question": "Should greetings like 'Hi' and 'Hello' be used in every context?",
+        "answer": false
+    },
+    {
+        "question": "Should we speak to a teacher the same way we speak to a close friend?",
+        "answer": false
+    },
+    {
+        "question": "Should spelling and grammar be more important in a job application than in a text message?",
+        "answer": true
+    },
+    {
+        "question": "Should emojis usually appear in formal letters?",
+        "answer": false
+    },
+    {
+        "question": "Should spoken English always use complete sentences?",
+        "answer": false
+    },
+    {
+        "question": "Should written English usually use complete sentences?",
+        "answer": true
+    },
+    {
+        "question": "Should spoken language often include fillers like 'um' and 'uh'?",
+        "answer": true
+    },
+    {
+        "question": "Should regional dialects be exactly the same as standard English?",
+        "answer": false
+    },
+    {
+        "question": "Should polite requests often use modal verbs like 'could' or 'would'?",
+        "answer": true
+    },
+    {
+        "question": "Should children and adults always use the same style of language?",
+        "answer": false
+    },
+    {
+        "question": "Should a newspaper headline use shorter sentences than a novel?",
+        "answer": true
+    },
+    {
+        "question": "Should language used in advertising often try to be persuasive?",
+        "answer": true
+    },
+    {
+        "question": "Should abbreviations like 'ASAP' be common in informal contexts?",
+        "answer": true
+    },
+    {
+        "question": "Should abbreviations like 'ASAP' always be used in formal essays?",
+        "answer": false
+    },
+    {
+        "question": "Should tone and style depend on audience and purpose?",
+        "answer": true
+    },
+    {
+        "question": "Should English spoken in America be exactly the same as English spoken in Britain?",
+        "answer": false
+    },
+    {
+        "question": "Should language include both spoken and written forms?",
+        "answer": true
+    },
+    {
+        "question": "Should idioms always be understood by non-native speakers?",
+        "answer": false
+    },
+    {
+        "question": "Should job interviews usually use formal language?",
+        "answer": true
+    },
+    {
+        "question": "Should nicknames usually appear in academic essays?",
+        "answer": false
+    },
+    {
+        "question": "Should slang words often change from one generation to another?",
+        "answer": true
+    }
+]

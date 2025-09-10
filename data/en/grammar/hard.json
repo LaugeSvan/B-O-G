@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Should the subjunctive be used in the phrase 'If I were you'?",
+        "answer": true
+    },
+    {
+        "question": "Should collective nouns like 'team' always take plural verbs in British English?",
+        "answer": false
+    },
+    {
+        "question": "Should collective nouns like 'government' sometimes take plural verbs in British English?",
+        "answer": true
+    },
+    {
+        "question": "Should you always use the Oxford comma in English writing?",
+        "answer": false
+    },
+    {
+        "question": "Should dangling modifiers be considered correct grammar?",
+        "answer": false
+    },
+    {
+        "question": "Should the past perfect tense always be used when two actions happen at different times in the past?",
+        "answer": true
+    },
+    {
+        "question": "Should 'whom' always be used after a preposition?",
+        "answer": true
+    },
+    {
+        "question": "Should 'whom' ever be used as a subject pronoun?",
+        "answer": false
+    },
+    {
+        "question": "Should 'which' be used to introduce restrictive clauses?",
+        "answer": false
+    },
+    {
+        "question": "Should 'that' be used to introduce restrictive clauses?",
+        "answer": true
+    },
+    {
+        "question": "Should 'which' be used to introduce non-restrictive clauses?",
+        "answer": true
+    },
+    {
+        "question": "Should semicolons be used to separate items in a complex list?",
+        "answer": true
+    },
+    {
+        "question": "Should a colon be used before a list introduced by 'such as'?",
+        "answer": false
+    },
+    {
+        "question": "Should a colon be used after a complete sentence to introduce a list?",
+        "answer": true
+    },
+    {
+        "question": "Should apostrophes be used to form plurals of regular nouns?",
+        "answer": false
+    },
+    {
+        "question": "Should apostrophes be used to form the plural of letters and numbers (e.g., 'mind your p’s and q’s')?",
+        "answer": true
+    },
+    {
+        "question": "Should 'less' be used with uncountable nouns?",
+        "answer": true
+    },
+    {
+        "question": "Should 'fewer' be used with uncountable nouns?",
+        "answer": false
+    },
+    {
+        "question": "Should 'whilst' be considered formal and mainly British English?",
+        "answer": true
+    },
+    {
+        "question": "Should 'shall' be used for future tense in modern American English?",
+        "answer": false
+    },
+    {
+        "question": "Should subject-verb inversion always occur after negative adverbials (e.g., 'Never have I seen')?",
+        "answer": true
+    },
+    {
+        "question": "Should parallel structure be used in lists for correct grammar?",
+        "answer": true
+    },
+    {
+        "question": "Should 'between' be used only for two items?",
+        "answer": false
+    },
+    {
+        "question": "Should 'among' be used for more than two items?",
+        "answer": true
+    },
+    {
+        "question": "Should a sentence ever end with a preposition?",
+        "answer": false
+    },
+    {
+        "question": "Should split infinitives always be avoided in modern English?",
+        "answer": false
+    },
+    {
+        "question": "Should the subjunctive be used after verbs like 'suggest' and 'recommend'?",
+        "answer": true
+    },
+    {
+        "question": "Should hyphens always be used in compound adjectives before nouns?",
+        "answer": true
+    },
+    {
+        "question": "Should 'whomever' be used as the subject of a sentence?",
+        "answer": false
+    },
+    {
+        "question": "Should 'whoever' be used as the subject of a sentence?",
+        "answer": true
+    }
+]

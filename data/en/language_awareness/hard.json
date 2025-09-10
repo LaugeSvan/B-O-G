@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Should code-switching sometimes involve switching between entirely different languages?",
+        "answer": true
+    },
+    {
+        "question": "Should prescriptive grammar rules always reflect how people actually speak?",
+        "answer": false
+    },
+    {
+        "question": "Should descriptive linguistics focus on how language is really used?",
+        "answer": true
+    },
+    {
+        "question": "Should register shifts occur depending on audience, purpose, and context?",
+        "answer": true
+    },
+    {
+        "question": "Should idiomatic expressions usually translate word-for-word into another language?",
+        "answer": false
+    },
+    {
+        "question": "Should pragmatics study how meaning depends on context?",
+        "answer": true
+    },
+    {
+        "question": "Should phonology be the study of word meaning?",
+        "answer": false
+    },
+    {
+        "question": "Should sociolinguistics examine how language relates to society and culture?",
+        "answer": true
+    },
+    {
+        "question": "Should diglossia describe the use of two distinct varieties of a language in one community?",
+        "answer": true
+    },
+    {
+        "question": "Should borrowing words from other languages always be avoided to keep a language 'pure'?",
+        "answer": false
+    },
+    {
+        "question": "Should language registers include frozen, formal, consultative, casual, and intimate?",
+        "answer": true
+    },
+    {
+        "question": "Should prescriptivism support strict rules about what is 'correct' language?",
+        "answer": true
+    },
+    {
+        "question": "Should descriptivism argue that all language varieties are equally valid?",
+        "answer": true
+    },
+    {
+        "question": "Should corpus linguistics rely on intuition instead of data?",
+        "answer": false
+    },
+    {
+        "question": "Should discourse analysis study how texts and conversations are structured?",
+        "answer": true
+    },
+    {
+        "question": "Should style-shifting mean using exactly the same language form in every context?",
+        "answer": false
+    },
+    {
+        "question": "Should taboo words carry the same level of offense in every culture?",
+        "answer": false
+    },
+    {
+        "question": "Should multilingualism mean fluency in at least three languages?",
+        "answer": false
+    },
+    {
+        "question": "Should multilingualism include people who can communicate in more than one language?",
+        "answer": true
+    },
+    {
+        "question": "Should semantic change describe how word meanings shift over time?",
+        "answer": true
+    },
+    {
+        "question": "Should language death occur when a language has no living native speakers?",
+        "answer": true
+    },
+    {
+        "question": "Should pidgins normally develop as the first language of children?",
+        "answer": false
+    },
+    {
+        "question": "Should creoles often develop from pidgins when they become native languages?",
+        "answer": true
+    },
+    {
+        "question": "Should language planning involve government decisions about language use?",
+        "answer": true
+    },
+    {
+        "question": "Should euphemisms be used to soften direct or harsh expressions?",
+        "answer": true
+    },
+    {
+        "question": "Should ethnolinguistics focus on the relationship between language and culture?",
+        "answer": true
+    },
+    {
+        "question": "Should code-mixing always follow formal grammar rules?",
+        "answer": false
+    },
+    {
+        "question": "Should language ideology describe beliefs and attitudes about language?",
+        "answer": true
+    },
+    {
+        "question": "Should sociolinguistic prestige explain why some accents are valued more highly?",
+        "answer": true
+    },
+    {
+        "question": "Should discourse markers like 'well' and 'so' always be grammatically necessary?",
+        "answer": false
+    }
+]

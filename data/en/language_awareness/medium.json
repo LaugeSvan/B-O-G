@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Should formal academic writing avoid using personal pronouns like 'I' and 'we'?",
+        "answer": true
+    },
+    {
+        "question": "Should spoken English always follow the same grammar rules as written English?",
+        "answer": false
+    },
+    {
+        "question": "Should tone be adjusted depending on the relationship between speaker and listener?",
+        "answer": true
+    },
+    {
+        "question": "Should dialects and accents be considered the same thing?",
+        "answer": false
+    },
+    {
+        "question": "Should code-switching mean changing language style depending on context?",
+        "answer": true
+    },
+    {
+        "question": "Should jargon always be avoided in professional fields?",
+        "answer": false
+    },
+    {
+        "question": "Should technical language be simplified when speaking to a general audience?",
+        "answer": true
+    },
+    {
+        "question": "Should all languages borrow words from other languages?",
+        "answer": true
+    },
+    {
+        "question": "Should an email to a teacher use the same style as an email to a close friend?",
+        "answer": false
+    },
+    {
+        "question": "Should tone in persuasive writing often appeal to emotions?",
+        "answer": true
+    },
+    {
+        "question": "Should online communication always use the same grammar as a printed essay?",
+        "answer": false
+    },
+    {
+        "question": "Should idioms often be understood only in their cultural context?",
+        "answer": true
+    },
+    {
+        "question": "Should academic texts use contractions like 'don't' and 'can't'?",
+        "answer": false
+    },
+    {
+        "question": "Should spoken language include incomplete sentences and interruptions?",
+        "answer": true
+    },
+    {
+        "question": "Should regional vocabulary differences exist within the same language?",
+        "answer": true
+    },
+    {
+        "question": "Should formal writing avoid phrasal verbs when a single-word alternative exists?",
+        "answer": true
+    },
+    {
+        "question": "Should register refer to the level of formality in language?",
+        "answer": true
+    },
+    {
+        "question": "Should satire always use polite and formal language?",
+        "answer": false
+    },
+    {
+        "question": "Should slang be considered appropriate in formal debates?",
+        "answer": false
+    },
+    {
+        "question": "Should cultural background influence how people use language?",
+        "answer": true
+    },
+    {
+        "question": "Should abbreviations like 'LOL' be used in academic essays?",
+        "answer": false
+    },
+    {
+        "question": "Should spoken language often use intonation and stress for meaning?",
+        "answer": true
+    },
+    {
+        "question": "Should politeness strategies be the same in every culture?",
+        "answer": false
+    },
+    {
+        "question": "Should irony always be taken literally?",
+        "answer": false
+    },
+    {
+        "question": "Should language choice help show identity and group belonging?",
+        "answer": true
+    },
+    {
+        "question": "Should advertisements sometimes use exaggeration to persuade?",
+        "answer": true
+    },
+    {
+        "question": "Should legal documents use simple everyday language?",
+        "answer": false
+    },
+    {
+        "question": "Should formal spoken presentations avoid filler words like 'um'?",
+        "answer": true
+    },
+    {
+        "question": "Should regional accents affect written grammar rules?",
+        "answer": false
+    },
+    {
+        "question": "Should context determine whether a phrase is polite or rude?",
+        "answer": true
+    }
+]
