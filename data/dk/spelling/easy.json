@@ -12,7 +12,7 @@
         "answer": "sol"
     },
     {
-        "question": "Hvordan staver man til en høj plante med en stamme og grene?",
+        "question": "Hvordan staver man til en høj plante med en stamme og grene, hvor der tit bor fugle?",
         "answer": "træ"
     },
     {
@@ -24,11 +24,11 @@
         "answer": "æble"
     },
     {
-        "question": "Hvordan staver man til et sted, hvor en familie bor?",
+        "question": "Hvordan staver man til et sted, hvor mennesker tit bor?",
         "answer": "hus"
     },
     {
-        "question": "Hvordan staver man til et dyr, der flyver og synger?",
+        "question": "Hvordan staver man til et dyr, der flyver og pipper?",
         "answer": "fugl"
     },
     {
@@ -40,31 +40,31 @@
         "answer": "måne"
     },
     {
-        "question": "Hvordan staver man til en stor mængde saltvand omkring land?",
+        "question": "Hvordan staver man til en stor mængde saltvand omkring land, hvor der også bor hvaler?",
         "answer": "hav"
     },
     {
-        "question": "Hvordan staver man til en farverig plante i en have?",
+        "question": "Hvordan staver man til en farverig plante i en have som bier er vilde med?",
         "answer": "blomst"
     },
     {
-        "question": "Hvordan staver man til det, man drikker fra en flaske?",
+        "question": "Hvordan staver man til den gennemsigtige væske, man drikker fra en flaske?",
         "answer": "vand"
     },
     {
-        "question": "Hvordan staver man til en kold dessert, man slikker?",
+        "question": "Hvordan staver man til en kold, cremet dessert, man slikker med glæde?",
         "answer": "is"
     },
     {
-        "question": "Hvordan staver man til en ung person, der går i skole?",
-        "answer": "barn"
+        "question": "Hvordan staver man til en person, der går i skole?",
+        "answer": "elev"
     },
     {
         "question": "Hvordan staver man til noget hvidt, der driver på himlen?",
         "answer": "sky"
     },
     {
-        "question": "Hvordan staver man til noget, man spiser til frokost?",
+        "question": "Hvordan staver man til noget, man spiser?",
         "answer": "mad"
     },
     {
@@ -76,15 +76,15 @@
         "answer": "seng"
     },
     {
-        "question": "Hvordan staver man til et område med græs og blomster?",
+        "question": "Hvordan staver man til et område ved et hus med græs og blomster?",
         "answer": "have"
     },
     {
-        "question": "Hvordan staver man til den tid, hvor solen står op?",
-        "answer": "dag"
+        "question": "Hvordan staver man til den tid, hvor solen lige er kommet?",
+        "answer": "morgen"
     },
     {
-        "question": "Hvordan staver man til noget, der er behageligt at røre ved?",
+        "question": "Hvordan staver man til noget, der føles silkeagtigt og dejligt at røre ved?",
         "answer": "blødt"
     },
     {
@@ -92,11 +92,11 @@
         "answer": "træt"
     },
     {
-        "question": "Hvordan staver man til en åbning, man går igennem i et hus?",
+        "question": "Hvordan staver man til en åbning, man går gennem, i et hus?",
         "answer": "dør"
     },
     {
-        "question": "Hvordan staver man til luft, der blæser udenfor?",
+        "question": "Hvordan staver man til den kølige strøm, der danser gennem træerne udenfor?",
         "answer": "vind"
     },
     {
@@ -109,7 +109,7 @@
     },
     {
         "question": "Hvordan staver man til et måltid, man spiser om aftenen?",
-        "answer": "måltid"
+        "answer": "aftensmad"
     },
     {
         "question": "Hvordan staver man til noget, man sidder på ved bordet?",
