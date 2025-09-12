@@ -36,8 +36,12 @@ document.addEventListener("DOMContentLoaded", () => {
             praiseText.textContent = "Super godt klaret! Du har svaret rigtigt på over 80% af spørgsmålene!";
         }
 
+        else if (correct / total >= 0.5) {
+            praiseText.textContent = "Godt gået! Du har svaret rigtigt på over halvdelen af spørgsmålene! Men, du kan gøre det endnu bedre!";
+        }
+
         else {
-            praiseText.textContent = "Du har ikke svaret på nogle spørgsmål endnu.";
+            praiseText.textContent = "";
         }
     }
 
