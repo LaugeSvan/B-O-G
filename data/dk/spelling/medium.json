@@ -1,7 +1,7 @@
 [
     {
-        "question": "Hvordan staver man til en bog, der bruges i undervisningen?",
-        "answer": "skolebog"
+        "question": "Hvordan staver man til det modsatte af 'hurtig'?",
+        "answer": "langsom"
     },
     {
         "question": "Hvordan staver man til lyset fra solen på en klar dag?",
@@ -20,11 +20,11 @@
         "answer": "træstamme"
     },
     {
-        "question": "Hvordan staver man til en hylde, hvor bøger står?",
+        "question": "Hvordan staver man til en reol, hvor bøger står?",
         "answer": "bogreol"
     },
     {
-        "question": "Hvordan staver man til en taske, børn bruger i skolen?",
+        "question": "Hvordan staver man til en taske, man bruger i skolen?",
         "answer": "skoletaske"
     },
     {
@@ -32,20 +32,20 @@
         "answer": "lærer"
     },
     {
-        "question": "Hvordan staver man til tiden om morgenen før middag?",
-        "answer": "morgen"
+        "question": "Hvordan staver man til et dyr der hopper, og har en pung?",
+        "answer": "kænguru"
     },
     {
         "question": "Hvordan staver man til at bevæge sig rytmisk til musik?",
         "answer": "danse"
     },
     {
-        "question": "Hvordan staver man til noget, der er svært at løse?",
-        "answer": "svær"
+        "question": "Hvordan staver man til det værktøj, man bruger til at slå søm i med?",
+        "answer": "hammer"
     },
     {
-        "question": "Hvordan staver man til en vej i en by med huse?",
-        "answer": "gade"
+        "question": "Hvordan staver man til den største planet i vores solsystem?",
+        "answer": "jupiter"
     },
     {
         "question": "Hvordan staver man til en bygning, hvor folk arbejder?",
@@ -56,7 +56,7 @@
         "answer": "banan"
     },
     {
-        "question": "Hvordan staver man til et sted, hvor man køber mad?",
+        "question": "Hvordan staver man til et sted, hvor man køber noget?",
         "answer": "butik"
     },
     {
@@ -92,24 +92,24 @@
         "answer": "bibliotek"
     },
     {
-        "question": "Hvordan staver man til en lille bakke i naturen?",
-        "answer": "høj"
+        "question": "Hvordan staver man til den stærke røde frugt, der bruges i en kendt mexicansk ret?",
+        "answer": "chili"
     },
     {
         "question": "Hvordan staver man til en maskine, der vasker tøj?",
         "answer": "vaskemaskine"
     },
     {
-        "question": "Hvordan staver man til en aktivitet, hvor man løber?",
-        "answer": "løb"
+        "question": "Hvordan staver man til det, man skyder i luften for at fejre nytår?",
+        "answer": "raket"
     },
     {
-        "question": "Hvordan staver man til noget, man skriver med blæk?",
-        "answer": "pen"
+        "question": "Hvordan staver man til det store dyr med snabel, som lever i Afrika og Asien?",
+        "answer": "elefant"
     },
     {
-        "question": "Hvordan staver man til en lille fugl, der synger om foråret?",
-        "answer": "lærke"
+        "question": "Hvordan staver man til det sted, hvor man går hen for at købe medicin?",
+        "answer": "apotek"
     },
     {
         "question": "Hvordan staver man til en drik, der er varm og brun?",

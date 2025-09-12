@@ -20,11 +20,11 @@
         "answer": "spring"
     },
     {
-        "question": "Spell the common word for water frozen into ice.",
+        "question": "Spell the common word for frozen water.",
         "answer": "ice"
     },
     {
-        "question": "Spell the word for a round fruit that is often red or green.",
+        "question": "Spell the word for a round fruit that is often red or green and grows on a tree.",
         "answer": "apple"
     },
     {
@@ -36,8 +36,8 @@
         "answer": "short"
     },
     {
-        "question": "Spell the word for the thing we write with.",
-        "answer": "pen"
+        "question": "Spell the word for the thing we write with that has graphite in it.",
+        "answer": "pencil"
     },
     {
         "question": "Spell the color of a ripe banana.",
@@ -48,7 +48,7 @@
         "answer": "Tuesday"
     },
     {
-        "question": "Spell the word for frozen precipitation that falls from clouds.",
+        "question": "Spell the word for frozen water that falls from clouds.",
         "answer": "snow"
     },
     {
@@ -68,11 +68,11 @@
         "answer": "January"
     },
     {
-        "question": "Spell the word that means 'happy'.",
+        "question": "Spell the word that means 'full of joy'.",
         "answer": "joyful"
     },
     {
-        "question": "Spell the liquid we drink that comes from a cow.",
+        "question": "Spell the liquid we drink, that comes from a cow.",
         "answer": "milk"
     },
     {
@@ -104,7 +104,7 @@
         "answer": "autumn"
     },
     {
-        "question": "Spell the first letter of the English alphabet.",
+        "question": "What is the first letter of the English alphabet?",
         "answer": "A"
     },
     {
