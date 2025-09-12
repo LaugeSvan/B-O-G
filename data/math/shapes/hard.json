@@ -1,118 +1,122 @@
 [
     {
-        "question": "A rectangle with length 10 and width 7 has an area of 70. True or False?",
+        "question": "Et rektangel med længde 10 og bredde 7 har et areal på 70. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A square with side 9 has a perimeter of 36. True or False?",
+        "question": "En firkant med sidelængde 9 har en omkreds på 36. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A triangle with base 12 and height 6 has an area of 72. True or False?",
+        "question": "En trekant med grundlinje 12 og højde 6 har et areal på 72. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A hexagon with side 5 has a perimeter of 30. True or False?",
+        "question": "En sekskant med sidelængde 5 har en omkreds på 30. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A circle with radius 7 has a circumference of approximately 44. True or False?",
+        "question": "En cirkel med radius 7 har en omkreds på cirka 44. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A parallelogram with base 8 and height 5 has an area of 40. True or False?",
+        "question": "Et parallelogram med grundlinje 8 og højde 5 har et areal på 40. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A right-angled triangle with sides 3, 4, 5 satisfies the Pythagorean theorem. True or False?",
+        "question": "En retvinklet trekant med siderne 3, 4 og 5 opfylder Pythagoras' læresætning. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A rhombus with diagonals 6 and 8 has an area of 24. True or False?",
+        "question": "En rombe med diagonaler 6 og 8 har et areal på 24. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A trapezoid with bases 10 and 6 and height 4 has an area of 32. True or False?",
+        "question": "En trapez med grundlinjer 10 og 6 og højde 4 har et areal på 32. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A circle is a polygon. True or False?",
+        "question": "En cirkel er en polygon. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A hexagon has 6 corners and 6 sides. True or False?",
+        "question": "En sekskant har 6 hjørner og 6 sider. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A pentagon has more sides than a hexagon. True or False?",
+        "question": "En femkant har flere sider end en sekskant. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A square has equal sides but angles can vary. True or False?",
+        "question": "En firkant har lige sider, men vinklerne kan variere. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A triangle with angles 50, 60, and 70 degrees is valid. True or False?",
+        "question": "En trekant med vinkler på 50, 60 og 70 grader er gyldig. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A parallelogram has opposite sides equal and opposite angles equal. True or False?",
+        "question": "Et parallelogram har modsatte sider lige og modsatte vinkler lige. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A rectangle with length 12 and width 5 has a perimeter of 34. True or False?",
+        "question": "Et rektangel med længde 12 og bredde 5 har en omkreds på 34. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A triangle with sides 5, 5, 10 is a valid triangle. True or False?",
+        "question": "En trekant med siderne 5, 5 og 10 er en gyldig trekant. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A rhombus is a type of parallelogram. True or False?",
+        "question": "En rombe er en type parallelogram. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A trapezoid has exactly 4 sides and one pair of parallel sides. True or False?",
+        "question": "En trapez har præcis 4 sider og ét par parallelle sider. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A circle has infinite straight sides. True or False?",
+        "question": "En cirkel har uendeligt mange lige sider. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A regular hexagon has all sides equal. True or False?",
+        "question": "En regelmæssig sekskant har alle sider lige lange. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A square has a diagonal equal to the side length. True or False?",
+        "question": "En firkant har en diagonal, der er lig med sidelængden. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A triangle with sides 7, 24, 25 is a right-angled triangle. True or False?",
+        "question": "En trekant med siderne 7, 24 og 25 er en retvinklet trekant. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A rectangle can also be a square. True or False?",
+        "question": "Et rektangel kan også være en firkant. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "The sum of angles in a pentagon is 540 degrees. True or False?",
+        "question": "Summen af vinklerne i en femkant er 540 grader. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A hexagon has a sum of interior angles equal to 720 degrees. True or False?",
+        "question": "En sekskant har en sum af indvendige vinkler på 720 grader. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A trapezoid with bases 8 and 6 and height 5 has an area of 35. True or False?",
+        "question": "En trapez med grundlinjer 8 og 6 og højde 5 har et areal på 35. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "An equilateral triangle has all angles equal to 60 degrees. True or False?",
+        "question": "En ligesidet trekant har alle vinkler lig med 60 grader. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A square and a rhombus are both parallelograms. True or False?",
+        "question": "En firkant og en rombe er begge parallelogrammer. Sandt eller falsk?",
+        "answer": true
+    },
+    {
+        "question": "En cirkel har en radius, der er halvdelen af dens diameter. Sandt eller falsk?",
         "answer": true
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
-        "question": "A train travels 120 km in 2 hours. Another train travels 180 km in 3 hours. Both trains have the same speed. True or False?",
+        "question": "Et tog kører 120 km på 2 timer, og et andet tog kører 180 km på 3 timer. Har begge tog samme hastighed? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A rectangle has a length of 15 and width of 8. Its area is 120. True or False?",
+        "question": "Et rektangel har længde 15 og bredde 8. Er arealet 120? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "You buy 3 notebooks at $2.50 each and 2 pens at $1.50 each. Total cost is $10. True or False?",
+        "question": "Du køber 3 notesbøger til 2,50 dollars stykket og 2 kuglepenne til 1,50 dollars stykket. Er totalprisen 10 dollars? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A car drives 60 km in 1 hour and 90 km in 1.5 hours. Both trips are at the same speed. True or False?",
+        "question": "En bil kører 60 km på 1 time og 90 km på 1,5 time. Kører begge ture med samme hastighed? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have $100. You spend $30, then $20, and save $60. True or False?",
+        "question": "Du har 100 dollars. Du bruger 30 og derefter 20, og sparer 60. Er det korrekt? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A farmer has 12 cows and 15 sheep. He sells 5 cows. Total animals left are 22. True or False?",
+        "question": "En bonde har 12 køer og 15 får. Han sælger 5 køer. Er der 22 dyr tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "If a cake is cut into 16 slices and 10 slices are eaten, 6 slices remain. True or False?",
+        "question": "Hvis en kage er delt i 16 stykker, og 10 stykker spises, er der 6 stykker tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A bus has 50 seats. 20 passengers get off and 15 get on. There are now 45 passengers. True or False?",
+        "question": "En bus har 50 sæder. 20 passagerer stiger af, og 15 stiger på. Er der nu 45 passagerer? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "You run 5 km on Monday, 7 km on Tuesday, and 8 km on Wednesday. Total distance run is 20 km. True or False?",
+        "question": "Du løber 5 km mandag, 7 km tirsdag og 8 km onsdag. Er den samlede distance 20 km? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A book has 300 pages. You read 40 pages per day. You finish the book in 7 days. True or False?",
+        "question": "En bog har 300 sider, og du læser 40 sider om dagen. Færdiggør du bogen på 7 dage? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A box contains 24 chocolates. You eat 5 and give 7 to a friend. Remaining chocolates are 12. True or False?",
+        "question": "En kasse indeholder 24 chokolader. Du spiser 5 og giver 7 til en ven. Er der 12 chokolader tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You save $15 per week for 6 weeks. Total saved is $80. True or False?",
+        "question": "Du sparer 15 dollars om ugen i 6 uger. Har du sparet 80 dollars i alt? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A rectangle has a perimeter of 30 and length of 10. Width is 5. True or False?",
+        "question": "Et rektangel har en omkreds på 30 og længde 10. Er bredden 5? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A train travels 150 km in 3 hours. Its average speed is 60 km/h. True or False?",
+        "question": "Et tog kører 150 km på 3 timer. Er gennemsnitshastigheden 60 km/t? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "You have 5 packs of 12 stickers each. Total stickers are 60. True or False?",
+        "question": "Du har 5 pakker med 12 klistermærker i hver. Er der 60 klistermærker i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A car travels 240 km in 4 hours and another car 300 km in 5 hours. Both travel at the same speed. True or False?",
+        "question": "En bil kører 240 km på 4 timer, og en anden bil kører 300 km på 5 timer. Kører begge med samme hastighed? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A classroom has 10 tables. Each table has 3 chairs. Total chairs are 30. True or False?",
+        "question": "Et klasseværelse har 10 borde, og hvert bord har 3 stole. Er der 30 stole i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A fruit basket has 15 apples. You eat 5 and give 4 away. Remaining apples are 6. True or False?",
+        "question": "En frugtkurv har 15 æbler. Du spiser 5 og giver 4 væk. Er der 6 æbler tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You read 20 pages per day for 5 days. Total pages read are 100. True or False?",
+        "question": "Du læser 20 sider om dagen i 5 dage. Har du læst 100 sider i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have $200. You spend $50 on groceries and $100 on clothes. Remaining money is $60. True or False?",
+        "question": "Du har 200 dollars. Du bruger 50 på dagligvarer og 100 på tøj. Har du 60 dollars tilbage? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A baker bakes 48 muffins. He packs them into boxes of 8. Total boxes are 6. True or False?",
+        "question": "En bager bager 48 muffins og pakker dem i kasser med 8 i hver. Er der 6 kasser? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A train travels 180 km in 3 hours. Its average speed is 70 km/h. True or False?",
+        "question": "Et tog kører 180 km på 3 timer. Er gennemsnitshastigheden 70 km/t? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "You have 3 boxes of pencils with 10 pencils each. Total pencils are 30. True or False?",
+        "question": "Du har 3 kasser med blyanter, 10 i hver. Er der 30 blyanter i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A car travels 90 km at 60 km/h. It takes 1.5 hours. True or False?",
+        "question": "En bil kører 90 km med 60 km/t. Tager det 1,5 time? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A pizza is cut into 12 slices. You eat 5 slices and 6 are left. True or False?",
+        "question": "En pizza er delt i 12 stykker. Du spiser 5, og der er 6 stykker tilbage. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "You save $25 per week for 8 weeks. Total saved is $200. True or False?",
+        "question": "Du sparer 25 dollars om ugen i 8 uger. Har du sparet 200 dollars i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A school has 20 classrooms. 5 are closed for maintenance. 15 classrooms remain usable. True or False?",
+        "question": "En skole har 20 klasseværelser. 5 er lukkede til vedligeholdelse. Er der 15 klasseværelser tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A rectangle has length 12 and width 5. Area is 60. True or False?",
+        "question": "Et rektangel har længde 12 og bredde 5. Er arealet 60? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A shop sells 40 apples. You buy 15 and give 10 away. Remaining apples are 25. True or False?",
+        "question": "En butik sælger 40 æbler. Du køber 15 og giver 10 væk. Er der 25 tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You read 10 pages per day for 7 days. Total pages read are 80. True or False?",
+        "question": "Du læser 10 sider om dagen i 7 dage. Har du læst 80 sider i alt? Sandt eller falsk?",
         "answer": false
     }
 ]

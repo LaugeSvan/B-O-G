@@ -1,122 +1,122 @@
 [
     {
-        "question": "If you have 3 apples and get 2 more, you now have 5 apples. True or False?",
+        "question": "Hvis du har 3 æbler og får 2 mere, har du så 5 æbler? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have 10 candies. You eat 4. You now have 8 candies. True or False?",
+        "question": "Du har 10 stykker slik og spiser 4. Har du nu 8 stykker? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "There are 5 birds on a tree. 2 fly away. There are 3 birds left. True or False?",
+        "question": "Der sidder 5 fugle på et træ, og 2 flyver væk. Er der 3 fugle tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have 7 pencils and buy 3 more. You now have 9 pencils. True or False?",
+        "question": "Du har 7 blyanter og køber 3 mere. Har du nu 9 blyanter? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A box has 6 balls. You add 4 more balls. Total balls are 10. True or False?",
+        "question": "En kasse indeholder 6 bolde. Du lægger 4 til. Er der nu 10 bolde i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "If a car has 4 wheels and you have 2 cars, there are 8 wheels total. True or False?",
+        "question": "Hvis en bil har 4 hjul, og du har 2 biler, er der så 8 hjul i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You read 2 books on Monday and 3 on Tuesday. You read 5 books in total. True or False?",
+        "question": "Du læser 2 bøger mandag og 3 bøger tirsdag. Har du læst 5 bøger i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A basket has 10 oranges. You give 3 to a friend. 8 oranges are left. True or False?",
+        "question": "En kurv har 10 appelsiner, og du giver 3 til en ven. Er der 8 tilbage? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "There are 8 chairs in a room. 2 are broken. 6 usable chairs remain. True or False?",
+        "question": "Der står 8 stole i et rum, og 2 er ødelagte. Er der 6 brugbare tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have 4 red balloons and 3 blue balloons. You have 6 balloons in total. True or False?",
+        "question": "Du har 4 røde balloner og 3 blå. Har du 6 balloner i alt? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A dog has 4 legs. 3 dogs have 12 legs in total. True or False?",
+        "question": "En hund har 4 ben. Har 3 hunde tilsammen 12 ben? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "There are 5 cats. Each cat has 1 tail. Total tails are 5. True or False?",
+        "question": "Der er 5 katte, og hver har 1 hale. Er der i alt 5 haler? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You save 2 dollars each day for 5 days. Total saved is 10 dollars. True or False?",
+        "question": "Du sparer 2 dollars hver dag i 5 dage. Har du sparet 10 dollars i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You eat 1 apple every day for 7 days. Total eaten is 6 apples. True or False?",
+        "question": "Du spiser 1 æble om dagen i 7 dage. Har du spist 6 æbler i alt? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A bag has 9 candies. You eat 3 and give 2 away. 4 candies remain. True or False?",
+        "question": "En pose har 9 stykker slik. Du spiser 3 og giver 2 væk. Er der 4 tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have 6 books. Your friend gives you 4 more. You now have 10 books. True or False?",
+        "question": "Du har 6 bøger, og din ven giver dig 4 mere. Har du nu 10 bøger? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A farmer has 5 cows and 3 sheep. Total animals are 8. True or False?",
+        "question": "En bonde har 5 køer og 3 får. Er der 8 dyr i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have 3 pencils, 2 pens, and 1 eraser. Total items are 6. True or False?",
+        "question": "Du har 3 blyanter, 2 kuglepenne og 1 viskelæder. Er der i alt 6 ting? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "There are 12 eggs. You use 5 for breakfast. 7 eggs remain. True or False?",
+        "question": "Der er 12 æg, og du bruger 5 til morgenmad. Er der 7 æg tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A pizza is cut into 8 slices. You eat 3 slices. 4 slices remain. True or False?",
+        "question": "En pizza er delt i 8 stykker, og du spiser 3. Er der 4 stykker tilbage? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "You collect 10 stamps and buy 5 more. You now have 15 stamps. True or False?",
+        "question": "Du samler 10 frimærker og køber 5 mere. Har du nu 15 frimærker? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A basket has 7 apples. You eat 2. 5 apples remain. True or False?",
+        "question": "En kurv har 7 æbler. Du spiser 2. Er der 5 æbler tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have 3 boxes with 4 toys each. Total toys are 12. True or False?",
+        "question": "Du har 3 kasser med 4 legetøj i hver. Er der 12 legetøj i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A pack has 20 cards. You give 7 to a friend. 12 cards remain. True or False?",
+        "question": "En pakke har 20 kort. Du giver 7 til en ven. Er der 12 kort tilbage? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "You read 2 pages each day for 5 days. Total pages read are 10. True or False?",
+        "question": "Du læser 2 sider om dagen i 5 dage. Har du læst 10 sider i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have 6 chocolates. You eat 2 and give 1 away. 4 chocolates remain. True or False?",
+        "question": "Du har 6 chokolader. Du spiser 2 og giver 1 væk. Er der 4 tilbage? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A school has 15 classrooms. 3 are closed for cleaning. 12 classrooms remain usable. True or False?",
+        "question": "En skole har 15 klasseværelser, og 3 er lukkede til rengøring. Er der 12 brugbare tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You save 5 dollars a week for 4 weeks. Total saved is 20 dollars. True or False?",
+        "question": "Du sparer 5 dollars om ugen i 4 uger. Har du sparet 20 dollars i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A shop sells 30 apples. 12 are sold. 18 apples remain. True or False?",
+        "question": "En butik sælger 30 æbler, og 12 bliver solgt. Er der 18 tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have 8 pencils. You give away 3. You now have 6 pencils. True or False?",
+        "question": "Du har 8 blyanter og giver 3 væk. Har du nu 6 blyanter? Sandt eller falsk?",
         "answer": false
     }
 ]

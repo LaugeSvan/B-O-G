@@ -1,122 +1,122 @@
 [
     {
-        "question": "You have 15 marbles. You give 7 to your friend. You now have 8 marbles. True or False?",
+        "question": "Du har 15 marmorkugler og giver 7 til en ven. Har du nu 8 marmorkugler tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A train has 50 passengers. 20 get off at the first station and 15 get on. There are now 45 passengers. True or False?",
+        "question": "Et tog har 50 passagerer. 20 stiger af ved første station, og 15 stiger på. Er der nu 45 passagerer? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "If a rectangle has a length of 8 and width of 4, its area is 32. True or False?",
+        "question": "Hvis et rektangel har længde 8 og bredde 4, er arealet 32. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have $20. You spend $5 on lunch and $10 on snacks. You now have $6. True or False?",
+        "question": "Du har 20 dollars. Du bruger 5 på frokost og 10 på snacks. Har du 6 tilbage? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A classroom has 12 tables and each table has 2 chairs. Total chairs are 24. True or False?",
+        "question": "Et klasseværelse har 12 borde, og hvert bord har 2 stole. Er der 24 stole i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You read 3 chapters per day for 7 days. You read 21 chapters. True or False?",
+        "question": "Du læser 3 kapitler om dagen i 7 dage. Har du læst 21 kapitler i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A shop sells 12 pencils for $6. Each pencil costs $0.50. True or False?",
+        "question": "En butik sælger 12 blyanter for 6 dollars. Koster hver blyant 0,50 dollars? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "If a cake is cut into 8 slices and you eat 3, 6 slices remain. True or False?",
+        "question": "Hvis en kage er delt i 8 stykker, og du spiser 3, er der så 6 stykker tilbage? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A bus has 40 seats. 28 passengers are on the bus. There are 12 empty seats. True or False?",
+        "question": "En bus har 40 sæder, og der er 28 passagerer ombord. Er der 12 ledige sæder? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A box contains 3 red, 4 blue, and 5 green balls. Total balls are 11. True or False?",
+        "question": "En kasse indeholder 3 røde, 4 blå og 5 grønne bolde. Er der 11 bolde i alt? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "You save $5 every week for 10 weeks. Total saved is $50. True or False?",
+        "question": "Du sparer 5 dollars hver uge i 10 uger. Har du sparet 50 dollars i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A soccer team has 11 players. 2 teams play together. Total players on the field are 22. True or False?",
+        "question": "Et fodboldhold har 11 spillere. To hold spiller sammen. Er der 22 spillere på banen? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You buy 3 packs of juice with 6 bottles each. You have 18 bottles. True or False?",
+        "question": "Du køber 3 pakker juice med 6 flasker i hver. Har du 18 flasker i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A farmer has 10 cows. Each cow gives 5 liters of milk per day. Total milk is 45 liters. True or False?",
+        "question": "En bonde har 10 køer. Hver ko giver 5 liter mælk om dagen. Er den samlede mælkemængde 45 liter? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "There are 9 pencils in a box. You buy 3 boxes. Total pencils are 27. True or False?",
+        "question": "Der er 9 blyanter i en kasse, og du køber 3 kasser. Har du 27 blyanter i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You walk 2 km to school and 2 km back home. Total distance walked is 5 km. True or False?",
+        "question": "Du går 2 km til skole og 2 km hjem igen. Har du gået 5 km i alt? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A bookshelf has 5 shelves. Each shelf holds 8 books. Total books are 40. True or False?",
+        "question": "En reol har 5 hylder, og hver hylde kan holde 8 bøger. Er der 40 bøger i alt? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You divide 36 chocolates among 6 friends equally. Each friend gets 6 chocolates. True or False?",
+        "question": "Du deler 36 chokolader ligeligt mellem 6 venner. Får hver 6 chokolader? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A rectangle has a length of 5 and width of 6. Area is 30. True or False?",
+        "question": "Et rektangel har længde 5 og bredde 6. Er arealet 30? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You buy 7 candies at $0.50 each. Total cost is $3. True or False?",
+        "question": "Du køber 7 stykker slik til 0,50 dollars stykket. Koster det i alt 3 dollars? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "If a clock shows 3:00 PM, it is 15:00 in 24-hour format. True or False?",
+        "question": "Hvis et ur viser kl. 15:00, er det 15:00 i 24-timers format? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A train travels 60 km per hour for 2 hours. Total distance is 120 km. True or False?",
+        "question": "Et tog kører 60 km i timen i 2 timer. Er den tilbagelagte distance 120 km? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A rectangle with sides 4 and 5 has a perimeter of 18. True or False?",
+        "question": "Et rektangel med sider på 4 og 5 har en omkreds på 18. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "You have 12 pencils. You give 3 to a friend and 2 to your brother. You have 7 left. True or False?",
+        "question": "Du har 12 blyanter. Du giver 3 til en ven og 2 til din bror. Har du 7 blyanter tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A car travels 80 km in 1 hour. In 2 hours it travels 160 km. True or False?",
+        "question": "En bil kører 80 km på 1 time. Kører den 160 km på 2 timer? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A box has 10 chocolates. You eat 3, give 4 away. 3 remain. True or False?",
+        "question": "En kasse har 10 chokolader. Du spiser 3 og giver 4 væk. Er der 3 tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "You have $50. You spend $20 and save $35. True or False?",
+        "question": "Du har 50 dollars. Du bruger 20 og sparer 35. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "If a pizza is cut into 12 slices and you eat 4, 8 slices remain. True or False?",
+        "question": "Hvis en pizza er delt i 12 stykker, og du spiser 4, er der så 8 stykker tilbage? Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A baker bakes 24 muffins. He packs them into boxes of 6. Total boxes are 5. True or False?",
+        "question": "En bager bager 24 muffins og pakker dem i kasser med 6 i hver. Er der 5 kasser? Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "You have 4 packs of stickers with 10 stickers each. Total stickers are 40. True or False?",
+        "question": "Du har 4 pakker klistermærker med 10 klistermærker i hver. Er der 40 klistermærker i alt? Sandt eller falsk?",
         "answer": true
     }
 ]

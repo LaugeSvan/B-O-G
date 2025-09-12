@@ -1,122 +1,122 @@
 [
     {
-        "question": "A triangle has 3 sides. True or False?",
+        "question": "En trekant har 3 sider. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A square has 5 sides. True or False?",
+        "question": "Et kvadrat har 5 sider. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A rectangle has 4 sides. True or False?",
+        "question": "Et rektangel har 4 sider. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A circle has corners. True or False?",
+        "question": "En cirkel har hjørner. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A pentagon has 5 sides. True or False?",
+        "question": "En femkant har 5 sider. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A hexagon has 6 sides. True or False?",
+        "question": "En sekskant har 6 sider. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A triangle has 4 corners. True or False?",
+        "question": "En trekant har 4 hjørner. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A square has 4 corners. True or False?",
+        "question": "Et kvadrat har 4 hjørner. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A rectangle has equal sides. True or False?",
+        "question": "Et rektangel har lige sider. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A circle is a closed shape. True or False?",
+        "question": "En cirkel er en lukket figur. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A hexagon has 7 sides. True or False?",
+        "question": "En sekskant har 7 sider. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A pentagon has 5 corners. True or False?",
+        "question": "En femkant har 5 hjørner. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A triangle has 3 corners. True or False?",
+        "question": "En trekant har 3 hjørner. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A square has 3 sides. True or False?",
+        "question": "Et kvadrat har 3 sider. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A rectangle has 4 corners. True or False?",
+        "question": "Et rektangel har 4 hjørner. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A circle has 1 side. True or False?",
+        "question": "En cirkel har 1 side. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A hexagon has 6 corners. True or False?",
+        "question": "En sekskant har 6 hjørner. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A pentagon has 4 sides. True or False?",
+        "question": "En femkant har 4 sider. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A triangle is a closed shape. True or False?",
+        "question": "En trekant er en lukket figur. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A square is a type of rectangle. True or False?",
+        "question": "Et kvadrat er en type rektangel. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A circle has 360 corners. True or False?",
+        "question": "En cirkel har 360 hjørner. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A rectangle has 2 pairs of equal sides. True or False?",
+        "question": "Et rektangel har 2 par lige sider. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A triangle has 2 sides. True or False?",
+        "question": "En trekant har 2 sider. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A hexagon has more sides than a pentagon. True or False?",
+        "question": "En sekskant har flere sider end en femkant. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A square has all sides equal. True or False?",
+        "question": "Et kvadrat har alle sider lige. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A rectangle has all sides equal. True or False?",
+        "question": "Et rektangel har alle sider lige. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A triangle has more corners than a square. True or False?",
+        "question": "En trekant har flere hjørner end et kvadrat. Sandt eller falsk?",
         "answer": false
     },
     {
-        "question": "A pentagon has fewer sides than a hexagon. True or False?",
+        "question": "En femkant har færre sider end en sekskant. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A circle has 1 curved side. True or False?",
+        "question": "En cirkel har 1 buet side. Sandt eller falsk?",
         "answer": true
     },
     {
-        "question": "A hexagon has 5 sides. True or False?",
+        "question": "En sekskant har 5 sider. Sandt eller falsk?",
         "answer": false
     }
 ]
